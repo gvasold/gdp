@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="262.73605mm"
+   height="155.36914mm"
+   viewBox="0 0 262.73605 155.36914"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   sodipodi:docname="exceptions.svg"
+   inkscape:export-filename="/home/vasold/Nextcloud/lehre_aktuell/gdp/gdp21/04-ausnahmen/img/exceptions.png"
+   inkscape:export-xdpi="36.736488"
+   inkscape:export-ydpi="36.736488"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0791315"
+     inkscape:cx="290.5114"
+     inkscape:cy="364.64509"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2488"
+     inkscape:window-height="1376"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="1"
+     fit-margin-right="1"
+     fit-margin-left="1"
+     fit-margin-bottom="1"
+     inkscape:pagecheckerboard="0"
+     height="136.36914mm">
+    <sodipodi:guide
+       position="131.5387,73.363279"
+       orientation="1,0"
+       id="guide936" />
+    <sodipodi:guide
+       position="174.93587,125.83217"
+       orientation="0,-1"
+       id="guide938" />
+    <sodipodi:guide
+       position="179.10396,68.950009"
+       orientation="1,0"
+       id="guide940" />
+    <sodipodi:guide
+       position="248.38166,81.20892"
+       orientation="0,-1"
+       id="guide942" />
+    <sodipodi:guide
+       position="284.83781,36.676547"
+       orientation="0,-1"
+       id="guide946" />
+    <sodipodi:guide
+       position="290.24737,-7.9869929"
+       orientation="0,-1"
+       id="guide948" />
+    <sodipodi:guide
+       position="83.72827,142.25935"
+       orientation="1,0"
+       id="guide952" />
+    <sodipodi:guide
+       position="226.66921,72.137379"
+       orientation="1,0"
+       id="guide956" />
+    <sodipodi:guide
+       position="35.917832,18.687759"
+       orientation="1,0"
+       id="guide958" />
+    <sodipodi:guide
+       position="269.487,103.4692"
+       orientation="0,-1"
+       id="guide960" />
+    <sodipodi:guide
+       position="27.756057,156.21161"
+       orientation="0,-1"
+       id="guide1242" />
+    <sodipodi:guide
+       position="27.756057,165.63418"
+       orientation="0,-1"
+       id="guide1244" />
+    <sodipodi:guide
+       position="20.97773,156.2116"
+       orientation="1,0"
+       id="guide1246" />
+    <sodipodi:guide
+       position="286.58006,59.046266"
+       orientation="0,-1"
+       id="guide3691" />
+    <sodipodi:guide
+       position="289.18061,14.490264"
+       orientation="0,-1"
+       id="guide3693" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-7.4793329,-15.697479)">
+    <rect
+       style="fill:#999999;stroke-width:3.32281"
+       id="rect833"
+       width="69.873917"
+       height="19.229788"
+       x="104.34886"
+       y="16.697479" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="113.19283"
+       y="28.413872"
+       id="text837"><tspan
+         sodipodi:role="line"
+         x="113.19283"
+         y="28.413872"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         id="tspan839">BaseException</tspan></text>
+    <rect
+       style="fill:#999999;stroke-width:3.32283"
+       id="rect833-8"
+       width="69.873917"
+       height="19.23"
+       x="56.514057"
+       y="61.253258" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="58.944435"
+       y="72.78154"
+       id="text837-9"><tspan
+         sodipodi:role="line"
+         id="tspan864"
+         x="58.944435"
+         y="72.78154">KeyboardInterrupt</tspan></text>
+    <rect
+       style="fill:#999999;stroke-width:3.32283"
+       id="rect833-3"
+       width="69.873917"
+       height="19.23"
+       x="151.68622"
+       y="61.233257" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="169.24191"
+       y="72.988457"
+       id="text837-3"><tspan
+         sodipodi:role="line"
+         id="tspan876"
+         x="169.24191"
+         y="72.988457">Exception</tspan></text>
+    <rect
+       style="fill:#999999;stroke-width:3.32283"
+       id="rect833-7"
+       width="69.873917"
+       height="19.23"
+       x="104.21646"
+       y="105.67465" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="109.94569"
+       y="117.92376"
+       id="text837-32"><tspan
+         sodipodi:role="line"
+         id="tspan888"
+         x="109.94569"
+         y="117.92376">ArithmethicError</tspan></text>
+    <rect
+       style="fill:#999999;stroke-width:3.32283"
+       id="rect833-5"
+       width="69.873917"
+       height="19.23"
+       x="199.34146"
+       y="105.66992" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="212.59"
+       y="117.12642"
+       id="text837-2"><tspan
+         sodipodi:role="line"
+         id="tspan900"
+         x="212.59"
+         y="117.12642">LookupError</tspan></text>
+    <rect
+       style="fill:#999999;stroke-width:3.32283"
+       id="rect833-58"
+       width="69.873917"
+       height="19.23"
+       x="8.4793329"
+       y="150.60239" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="11.547399"
+       y="162.14589"
+       id="text837-7"><tspan
+         sodipodi:role="line"
+         id="tspan912"
+         x="11.547399"
+         y="162.14589">FloatingPointError</tspan></text>
+    <rect
+       style="fill:#999999;stroke-width:3.32283"
+       id="rect833-6"
+       width="69.873917"
+       height="19.23"
+       x="104.19145"
+       y="150.40031" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="114.6229"
+       y="162.68472"
+       id="text837-0"><tspan
+         sodipodi:role="line"
+         id="tspan924"
+         x="114.6229"
+         y="162.68472">OverflowError</tspan></text>
+    <rect
+       style="fill:#999999;stroke-width:3.32283"
+       id="rect833-1"
+       width="69.873917"
+       height="19.23"
+       x="199.28313"
+       y="150.41829" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="208.37228"
+       y="162.41872"
+       id="text837-04"><tspan
+         sodipodi:role="line"
+         x="208.37228"
+         y="162.41872"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         id="tspan839-8">BaseException</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 139.01804,40.069562 V 48.71605 H 91.207602 v 12.206246"
+       id="path966"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 139.01804,37.494884 V 48.71605 h 47.56526 v 12.165033"
+       id="path968"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 139.01804,105.41588 V 93.203779 H 186.5833 V 82.329807 93.203779 h 47.56525 v 12.082181"
+       id="path970"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 139.01804,125.67243 v 12.01918 h 95.13051 v 12.44888"
+       id="path974"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 43.397164,149.97964 v -12.28803 h 95.620876 v -8.47646 20.83239"
+       id="path972"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect70"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.105;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 139.01804,35.962438 3.38837,4.710194 h -6.77832 z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="rect70-8"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.105;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 186.5833,80.512834 3.38837,4.710194 h -6.77832 z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="rect70-83"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.105;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 139.04987,124.98301 3.38837,4.71018 h -6.77832 z"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>

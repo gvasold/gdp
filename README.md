@@ -16,6 +16,8 @@ Clone the repository from GitHub:
 git clone https://github.com/gvasold/gdp.git
 ```
 
+If you do not want to use git, you can download the zipped version from here: https://github.com/gvasold/gdp/archive/refs/heads/main.zip. Unzip `main.zip` and proceed as described below.
+
 Then change into `gdp` directory and start the Jupyter server:
 
 ```bash

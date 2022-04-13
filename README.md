@@ -8,7 +8,9 @@ course *Grundlagen der Programmierung* at Graz University. All notebooks are in 
 To use the notebooks make sure you have these programs installed:
 
 * Python version 3. 
-* Jupyter. Install it via package manager or via pip or conda (`pip install jupyter` or `conda install jupyter` if you use Conda/Anaconda)
+* Jupyter. Install it via pip or conda (`pip install --user jupyter` or `conda install jupyter` if you use Conda/Anaconda)
+* I suggest to also install jupyterlab, which is a more modern version of `jupyter notebook` (which was installed automatically with `jupyter`): 
+  `pip install --user jupyterlab` or `conda install jupyterlab`.
 
 Clone the repository from GitHub:
 
@@ -22,7 +24,16 @@ Then change into `gdp` directory and start the Jupyter server:
 
 ```bash
 cd gdp
+```
+
+```bash
 jupyter notebook
+```
+
+or, if you have installed jupyterlab:
+
+```bash
+jupyter-lab
 ```
 
 This will bring up your browser and will show you the contents of the `gdp` directory.

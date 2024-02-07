@@ -1,0 +1,1825 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+	<province name="Niederösterreich">
+		<district name="Zwettl">
+			<city name="Allentsteig">
+				<citySince>1380</citySince>
+				<populationNumbers>
+					<pop2001>2163</pop2001>
+					<pop2011>1998</pop2011>
+					<pop2023>1732</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Groß Gerungs">
+				<citySince>1983</citySince>
+				<populationNumbers>
+					<pop2001>4820</pop2001>
+					<pop2011>4624</pop2011>
+					<pop2023>4508</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Zwettl-Niederösterreich">
+				<citySince>1200</citySince>
+				<populationNumbers>
+					<pop2001>11630</pop2001>
+					<pop2011>11247</pop2011>
+					<pop2023>10702</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Amstetten">
+			<city name="Amstetten">
+				<citySince>1897</citySince>
+				<populationNumbers>
+					<pop2001>22595</pop2001>
+					<pop2011>22847</pop2011>
+					<pop2023>23902</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Haag">
+				<citySince>1932</citySince>
+				<populationNumbers>
+					<pop2001>5170</pop2001>
+					<pop2011>5405</pop2011>
+					<pop2023>5753</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="St. Valentin">
+				<citySince>1983</citySince>
+				<populationNumbers>
+					<pop2001>8983</pop2001>
+					<pop2011>9220</pop2011>
+					<pop2023>9374</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Baden">
+			<city name="Bad Vöslau">
+				<citySince>1954</citySince>
+				<populationNumbers>
+					<pop2001>10998</pop2001>
+					<pop2011>11316</pop2011>
+					<pop2023>12396</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Baden">
+				<citySince>1480</citySince>
+				<populationNumbers>
+					<pop2001>24502</pop2001>
+					<pop2011>25093</pop2011>
+					<pop2023>26017</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Berndorf">
+				<citySince>1900</citySince>
+				<populationNumbers>
+					<pop2001>8642</pop2001>
+					<pop2011>8810</pop2011>
+					<pop2023>8956</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Ebreichsdorf">
+				<citySince>2001</citySince>
+				<populationNumbers>
+					<pop2001>8788</pop2001>
+					<pop2011>9976</pop2011>
+					<pop2023>11860</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Traiskirchen">
+				<citySince>1927</citySince>
+				<populationNumbers>
+					<pop2001>15669</pop2001>
+					<pop2011>17729</pop2011>
+					<pop2023>19150</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Leitha">
+			<city name="Bruck an der Leitha Bruck an der">
+				<citySince>1239</citySince>
+				<populationNumbers>
+					<pop2001>7311</pop2001>
+					<pop2011>7648</pop2011>
+					<pop2023>8395</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Schwechat Bruck an der">
+				<citySince>1922</citySince>
+				<populationNumbers>
+					<pop2001>15286</pop2001>
+					<pop2011>16529</pop2011>
+					<pop2023>21166</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Gänserndorf">
+			<city name="Deutsch-Wagram">
+				<citySince>1984</citySince>
+				<populationNumbers>
+					<pop2001>6808</pop2001>
+					<pop2011>7882</pop2011>
+					<pop2023>9174</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Gänserndorf">
+				<citySince>1958</citySince>
+				<populationNumbers>
+					<pop2001>7928</pop2001>
+					<pop2011>10362</pop2011>
+					<pop2023>12012</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Groß-Enzersdorf">
+				<citySince>1396</citySince>
+				<populationNumbers>
+					<pop2001>8128</pop2001>
+					<pop2011>9613</pop2011>
+					<pop2023>12043</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Marchegg">
+				<citySince>1268</citySince>
+				<populationNumbers>
+					<pop2001>2850</pop2001>
+					<pop2011>2926</pop2011>
+					<pop2023>3099</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Zistersdorf">
+				<citySince>1281</citySince>
+				<populationNumbers>
+					<pop2001>5632</pop2001>
+					<pop2011>5437</pop2011>
+					<pop2023>5475</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Horn">
+			<city name="Drosendorf-Zissersdorf">
+				<citySince>1310</citySince>
+				<populationNumbers>
+					<pop2001>1309</pop2001>
+					<pop2011>1215</pop2011>
+					<pop2023>1206</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Eggenburg">
+				<citySince>1277</citySince>
+				<populationNumbers>
+					<pop2001>3645</pop2001>
+					<pop2011>3492</pop2011>
+					<pop2023>3537</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Geras">
+				<citySince>1928</citySince>
+				<populationNumbers>
+					<pop2001>1433</pop2001>
+					<pop2011>1369</pop2011>
+					<pop2023>1281</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Horn">
+				<citySince>1660</citySince>
+				<populationNumbers>
+					<pop2001>6411</pop2001>
+					<pop2011>6548</pop2011>
+					<pop2023>6502</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Krems">
+			<city name="Dürnstein">
+				<citySince>1492</citySince>
+				<populationNumbers>
+					<pop2001>931</pop2001>
+					<pop2011>868</pop2011>
+					<pop2023>792</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Gföhl">
+				<citySince>1990</citySince>
+				<populationNumbers>
+					<pop2001>3740</pop2001>
+					<pop2011>3702</pop2011>
+					<pop2023>3792</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Krems an der Donau">
+				<citySince>1305</citySince>
+				<populationNumbers>
+					<pop2001>23713</pop2001>
+					<pop2011>24032</pop2011>
+					<pop2023>25271</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Langenlois">
+				<citySince>1925</citySince>
+				<populationNumbers>
+					<pop2001>6875</pop2001>
+					<pop2011>7392</pop2011>
+					<pop2023>7582</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Mautern an der Donau">
+				<citySince>1276</citySince>
+				<populationNumbers>
+					<pop2001>3074</pop2001>
+					<pop2011>3465</pop2011>
+					<pop2023>3418</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Wiener Neustadt">
+			<city name="Ebenfurth">
+				<citySince>1515</citySince>
+				<populationNumbers>
+					<pop2001>2609</pop2001>
+					<pop2011>2853</pop2011>
+					<pop2023>3142</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Kirchschlag in der Buckligen Welt">
+				<citySince>2002</citySince>
+				<populationNumbers>
+					<pop2001>2960</pop2001>
+					<pop2011>2921</pop2011>
+					<pop2023>2801</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Wiener Neustadt">
+				<citySince>1277</citySince>
+				<populationNumbers>
+					<pop2001>37627</pop2001>
+					<pop2011>41305</pop2011>
+					<pop2023>47878</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Bruck an derLeitha">
+			<city name="Fischamend">
+				<citySince>1988</citySince>
+				<populationNumbers>
+					<pop2001>4419</pop2001>
+					<pop2011>4798</pop2011>
+					<pop2023>5714</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Korneuburg">
+			<city name="Gerasdorf bei Wien">
+				<citySince>1998</citySince>
+				<populationNumbers>
+					<pop2001>8231</pop2001>
+					<pop2011>10278</pop2011>
+					<pop2023>11871</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Korneuburg">
+				<citySince>1298</citySince>
+				<populationNumbers>
+					<pop2001>11032</pop2001>
+					<pop2011>12278</pop2011>
+					<pop2023>13697</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Stockerau">
+				<citySince>1893</citySince>
+				<populationNumbers>
+					<pop2001>14452</pop2001>
+					<pop2011>15624</pop2011>
+					<pop2023>16974</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Neunkirchen">
+			<city name="Gloggnitz">
+				<citySince>1926</citySince>
+				<populationNumbers>
+					<pop2001>6159</pop2001>
+					<pop2011>6041</pop2011>
+					<pop2023>5895</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Neunkirchen">
+				<citySince>1920</citySince>
+				<populationNumbers>
+					<pop2001>11028</pop2001>
+					<pop2011>12249</pop2011>
+					<pop2023>12814</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Ternitz">
+				<citySince>1948</citySince>
+				<populationNumbers>
+					<pop2001>15232</pop2001>
+					<pop2011>14800</pop2011>
+					<pop2023>14693</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Gmünd">
+			<city name="Gmünd">
+				<citySince>1311</citySince>
+				<populationNumbers>
+					<pop2001>5861</pop2001>
+					<pop2011>5371</pop2011>
+					<pop2023>5173</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Heidenreichstein">
+				<citySince>1932</citySince>
+				<populationNumbers>
+					<pop2001>4565</pop2001>
+					<pop2011>4078</pop2011>
+					<pop2023>3811</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Litschau">
+				<citySince>1386</citySince>
+				<populationNumbers>
+					<pop2001>2524</pop2001>
+					<pop2011>2263</pop2011>
+					<pop2023>2139</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Schrems">
+				<citySince>1936</citySince>
+				<populationNumbers>
+					<pop2001>5830</pop2001>
+					<pop2011>5643</pop2011>
+					<pop2023>5273</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Weitra">
+				<citySince>1360</citySince>
+				<populationNumbers>
+					<pop2001>2898</pop2001>
+					<pop2011>2752</pop2011>
+					<pop2023>2601</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Waidhofen an der Thaya">
+			<city name="Groß-Siegharts">
+				<citySince>1928</citySince>
+				<populationNumbers>
+					<pop2001>3089</pop2001>
+					<pop2011>2804</pop2011>
+					<pop2023>2693</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Raabs an der Thaya">
+				<citySince>1926</citySince>
+				<populationNumbers>
+					<pop2001>3114</pop2001>
+					<pop2011>2772</pop2011>
+					<pop2023>2656</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Waidhofen an der Thaya">
+				<citySince>1230</citySince>
+				<populationNumbers>
+					<pop2001>5750</pop2001>
+					<pop2011>5649</pop2011>
+					<pop2023>5219</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name=" Bruck an der Leitha">
+			<city name="Hainburg an der Donau">
+				<citySince>1244</citySince>
+				<populationNumbers>
+					<pop2001>5651</pop2001>
+					<pop2011>5906</pop2011>
+					<pop2023>6982</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Lilienfeld">
+			<city name="Hainfeld">
+				<citySince>1928</citySince>
+				<populationNumbers>
+					<pop2001>3696</pop2001>
+					<pop2011>3721</pop2011>
+					<pop2023>3830</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Lilienfeld">
+				<citySince>1974</citySince>
+				<populationNumbers>
+					<pop2001>3021</pop2001>
+					<pop2011>2811</pop2011>
+					<pop2023>2630</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Hollabrunn">
+			<city name="Hardegg">
+				<citySince>1309</citySince>
+				<populationNumbers>
+					<pop2001>1490</pop2001>
+					<pop2011>1380</pop2011>
+					<pop2023>1313</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Hollabrunn">
+				<citySince>1908</citySince>
+				<populationNumbers>
+					<pop2001>10685</pop2001>
+					<pop2011>11489</pop2011>
+					<pop2023>12262</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Maissau">
+				<citySince>1380</citySince>
+				<populationNumbers>
+					<pop2001>1855</pop2001>
+					<pop2011>1869</pop2011>
+					<pop2023>1944</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Pulkau">
+				<citySince>1985</citySince>
+				<populationNumbers>
+					<pop2001>1568</pop2001>
+					<pop2011>1574</pop2011>
+					<pop2023>1505</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Retz">
+				<citySince>1486</citySince>
+				<populationNumbers>
+					<pop2001>4168</pop2001>
+					<pop2011>4176</pop2011>
+					<pop2023>4279</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Schrattenthal">
+				<citySince>1472</citySince>
+				<populationNumbers>
+					<pop2001>879</pop2001>
+					<pop2011>856</pop2011>
+					<pop2023>895</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="St. Pölten">
+			<city name="Herzogenburg">
+				<citySince>1927</citySince>
+				<populationNumbers>
+					<pop2001>7738</pop2001>
+					<pop2011>7790</pop2011>
+					<pop2023>7936</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Neulengbach">
+				<citySince>2000</citySince>
+				<populationNumbers>
+					<pop2001>7120</pop2001>
+					<pop2011>7849</pop2011>
+					<pop2023>8609</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Pressbaum">
+				<citySince>2012</citySince>
+				<populationNumbers>
+					<pop2001>5834</pop2001>
+					<pop2011>7058</pop2011>
+					<pop2023>7863</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Purkersdorf">
+				<citySince>1966</citySince>
+				<populationNumbers>
+					<pop2001>7762</pop2001>
+					<pop2011>9259</pop2011>
+					<pop2023>9944</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="St. Pölten">
+				<citySince>1159</citySince>
+				<populationNumbers>
+					<pop2001>49121</pop2001>
+					<pop2011>51955</pop2011>
+					<pop2023>57639</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Traismauer">
+				<citySince>1958</citySince>
+				<populationNumbers>
+					<pop2001>5618</pop2001>
+					<pop2011>5919</pop2011>
+					<pop2023>6474</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Wilhelmsburg">
+				<citySince>1959</citySince>
+				<populationNumbers>
+					<pop2001>6660</pop2001>
+					<pop2011>6446</pop2011>
+					<pop2023>6461</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Tulln">
+			<city name="Klosterneuburg">
+				<citySince>1298</citySince>
+				<populationNumbers>
+					<pop2001>24797</pop2001>
+					<pop2011>25828</pop2011>
+					<pop2023>28107</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Tulln an der Donau">
+				<citySince>1270</citySince>
+				<populationNumbers>
+					<pop2001>13591</pop2001>
+					<pop2011>15169</pop2011>
+					<pop2023>16932</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Mistelbach">
+			<city name="Laa an der Thaya">
+				<citySince>1230</citySince>
+				<populationNumbers>
+					<pop2001>6137</pop2001>
+					<pop2011>6187</pop2011>
+					<pop2023>6275</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Mistelbach">
+				<citySince>1874</citySince>
+				<populationNumbers>
+					<pop2001>10644</pop2001>
+					<pop2011>10963</pop2011>
+					<pop2023>12025</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Poysdorf">
+				<citySince>1923</citySince>
+				<populationNumbers>
+					<pop2001>5606</pop2001>
+					<pop2011>5519</pop2011>
+					<pop2023>5685</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Wolkersdorf im Weinviertel">
+				<citySince>1968</citySince>
+				<populationNumbers>
+					<pop2001>6191</pop2001>
+					<pop2011>6739</pop2011>
+					<pop2023>7425</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Melk">
+			<city name="Mank">
+				<citySince>1987</citySince>
+				<populationNumbers>
+					<pop2001>2904</pop2001>
+					<pop2011>3090</pop2011>
+					<pop2023>3335</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Melk">
+				<citySince>1898</citySince>
+				<populationNumbers>
+					<pop2001>5222</pop2001>
+					<pop2011>5254</pop2011>
+					<pop2023>5594</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Pöchlarn">
+				<citySince>1400</citySince>
+				<populationNumbers>
+					<pop2001>3473</pop2001>
+					<pop2011>3924</pop2011>
+					<pop2023>4000</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Ybbs an der Donau">
+				<citySince>1317</citySince>
+				<populationNumbers>
+					<pop2001>5684</pop2001>
+					<pop2011>5592</pop2011>
+					<pop2023>5653</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Bruck an der Leitha">
+			<city name="Mannersdorf am Leithagebirge">
+				<citySince>1989</citySince>
+				<populationNumbers>
+					<pop2001>3731</pop2001>
+					<pop2011>3839</pop2011>
+					<pop2023>4219</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Mödling">
+			<city name="Mödling">
+				<citySince>1875</citySince>
+				<populationNumbers>
+					<pop2001>20405</pop2001>
+					<pop2011>20411</pop2011>
+					<pop2023>20630</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Scheibbs">
+			<city name="Scheibbs">
+				<citySince>1926</citySince>
+				<populationNumbers>
+					<pop2001>4331</pop2001>
+					<pop2011>4199</pop2011>
+					<pop2023>4237</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Wieselburg">
+				<citySince>1976</citySince>
+				<populationNumbers>
+					<pop2001>3489</pop2001>
+					<pop2011>3702</pop2011>
+					<pop2023>4672</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Waidhofen an der Ybbs">
+			<city name="Waidhofen an der Ybbs">
+				<citySince>1273</citySince>
+				<populationNumbers>
+					<pop2001>11662</pop2001>
+					<pop2011>11455</pop2011>
+					<pop2023>11126</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+	</province>
+	<province name="Oberösterreich">
+		<district name="Braunau am Inn">
+			<city name="Altheim">
+				<citySince>2003</citySince>
+				<populationNumbers>
+					<pop2001>4875</pop2001>
+					<pop2011>4784</pop2011>
+					<pop2023>5064</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Braunau am Inn">
+				<citySince>1260</citySince>
+				<populationNumbers>
+					<pop2001>16337</pop2001>
+					<pop2011>16197</pop2011>
+					<pop2023>17572</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Mattighofen">
+				<citySince>1986</citySince>
+				<populationNumbers>
+					<pop2001>5087</pop2001>
+					<pop2011>5730</pop2011>
+					<pop2023>7398</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Linz-Land">
+			<city name="Ansfelden">
+				<citySince>1988</citySince>
+				<populationNumbers>
+					<pop2001>14789</pop2001>
+					<pop2011>15716</pop2011>
+					<pop2023>18145</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Enns">
+				<citySince>1212</citySince>
+				<populationNumbers>
+					<pop2001>10611</pop2001>
+					<pop2011>11361</pop2011>
+					<pop2023>12176</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Leonding">
+				<citySince>1975</citySince>
+				<populationNumbers>
+					<pop2001>22203</pop2001>
+					<pop2011>25582</pop2011>
+					<pop2023>29129</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Traun">
+				<citySince>1973</citySince>
+				<populationNumbers>
+					<pop2001>23470</pop2001>
+					<pop2011>23709</pop2011>
+					<pop2023>25006</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Vöcklabruck">
+			<city name="Attnang-Puchheim">
+				<citySince>1990</citySince>
+				<populationNumbers>
+					<pop2001>8756</pop2001>
+					<pop2011>8862</pop2011>
+					<pop2023>9201</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Schwanenstadt">
+				<citySince>1627</citySince>
+				<populationNumbers>
+					<pop2001>4131</pop2001>
+					<pop2011>4120</pop2011>
+					<pop2023>4649</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Vöcklabruck">
+				<citySince>1353</citySince>
+				<populationNumbers>
+					<pop2001>11697</pop2001>
+					<pop2011>11909</pop2011>
+					<pop2023>12769</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Steyr-Land">
+			<city name="Bad Hall">
+				<citySince>2001</citySince>
+				<populationNumbers>
+					<pop2001>4752</pop2001>
+					<pop2011>4773</pop2011>
+					<pop2023>5746</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Gmunden">
+			<city name="Bad Ischl">
+				<citySince>1940</citySince>
+				<populationNumbers>
+					<pop2001>14081</pop2001>
+					<pop2011>13876</pop2011>
+					<pop2023>14228</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Gmunden">
+				<citySince>1278</citySince>
+				<populationNumbers>
+					<pop2001>13184</pop2001>
+					<pop2011>13086</pop2011>
+					<pop2023>13360</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Laakirchen">
+				<citySince>2007</citySince>
+				<populationNumbers>
+					<pop2001>9130</pop2001>
+					<pop2011>9468</pop2011>
+					<pop2023>9813</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Urfahr-Umgebung">
+			<city name="Bad Leonfelden">
+				<citySince>2001</citySince>
+				<populationNumbers>
+					<pop2001>3847</pop2001>
+					<pop2011>4086</pop2011>
+					<pop2023>4404</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Gallneukirchen">
+				<citySince>2001</citySince>
+				<populationNumbers>
+					<pop2001>5915</pop2001>
+					<pop2011>6183</pop2011>
+					<pop2023>6643</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Steyregg">
+				<citySince>1481</citySince>
+				<populationNumbers>
+					<pop2001>4749</pop2001>
+					<pop2011>4779</pop2011>
+					<pop2023>5107</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Eferding">
+			<city name="Eferding">
+				<citySince>1222</citySince>
+				<populationNumbers>
+					<pop2001>3393</pop2001>
+					<pop2011>3866</pop2011>
+					<pop2023>4296</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Freistadt">
+			<city name="Freistadt">
+				<citySince>1241</citySince>
+				<populationNumbers>
+					<pop2001>7353</pop2001>
+					<pop2011>7458</pop2011>
+					<pop2023>8180</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Pregarten">
+				<citySince>2003</citySince>
+				<populationNumbers>
+					<pop2001>4815</pop2001>
+					<pop2011>5098</pop2011>
+					<pop2023>5571</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Perg">
+			<city name="Grein">
+				<citySince>1491</citySince>
+				<populationNumbers>
+					<pop2001>3109</pop2001>
+					<pop2011>3024</pop2011>
+					<pop2023>2934</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Perg">
+				<citySince>1969</citySince>
+				<populationNumbers>
+					<pop2001>7129</pop2001>
+					<pop2011>7823</pop2011>
+					<pop2023>9306</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Grieskirchen">
+			<city name="Grieskirchen">
+				<citySince>1613</citySince>
+				<populationNumbers>
+					<pop2001>4802</pop2001>
+					<pop2011>4803</pop2011>
+					<pop2023>5104</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Peuerbach">
+				<citySince>1994</citySince>
+				<populationNumbers>
+					<pop2001>4530</pop2001>
+					<pop2011>4456</pop2011>
+					<pop2023>4697</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Kirchdorf">
+			<city name="Kirchdorf an der Krems">
+				<citySince>1975</citySince>
+				<populationNumbers>
+					<pop2001>4099</pop2001>
+					<pop2011>4075</pop2011>
+					<pop2023>4931</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Linz">
+			<city name="Linz">
+				<citySince>1240</citySince>
+				<populationNumbers>
+					<pop2001>183504</pop2001>
+					<pop2011>189889</pop2011>
+					<pop2023>210118</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Wels-Land">
+			<city name="Marchtrenk">
+				<citySince>2000</citySince>
+				<populationNumbers>
+					<pop2001>11274</pop2001>
+					<pop2011>12359</pop2011>
+					<pop2023>14603</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Stadl-Paura">
+				<citySince>2022</citySince>
+				<populationNumbers>
+					<pop2001>4866</pop2001>
+					<pop2011>4931</pop2011>
+					<pop2023>5083</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Ried im Innkreis">
+			<city name="Ried im Innkreis">
+				<citySince>1857</citySince>
+				<populationNumbers>
+					<pop2001>11404</pop2001>
+					<pop2011>11394</pop2011>
+					<pop2023>12482</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Rohrbach">
+			<city name="Rohrbach-Berg">
+				<citySince>1986</citySince>
+				<populationNumbers>
+					<pop2001>2353</pop2001>
+					<pop2011>2478</pop2011>
+					<pop2023>5239</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Schärding">
+			<city name="Schärding">
+				<citySince>1316</citySince>
+				<populationNumbers>
+					<pop2001>5052</pop2001>
+					<pop2011>4876</pop2011>
+					<pop2023>5351</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Steyr">
+			<city name="Steyr">
+				<citySince>1287</citySince>
+				<populationNumbers>
+					<pop2001>39340</pop2001>
+					<pop2011>38205</pop2011>
+					<pop2023>37917</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Wels">
+			<city name="Wels">
+				<citySince>1222</citySince>
+				<populationNumbers>
+					<pop2001>56478</pop2001>
+					<pop2011>58591</pop2011>
+					<pop2023>64385</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+	</province>
+	<province name="Kärnten">
+		<district name="Glan">
+			<city name="Althofen St. Veit an der">
+				<citySince>1993</citySince>
+				<populationNumbers>
+					<pop2001>4732</pop2001>
+					<pop2011>4656</pop2011>
+					<pop2023>4826</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Wolfsberg">
+			<city name="Bad St. Leonhard im Lavanttal">
+				<citySince>1325</citySince>
+				<populationNumbers>
+					<pop2001>4816</pop2001>
+					<pop2011>4528</pop2011>
+					<pop2023>4289</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Sankt Andrä">
+				<citySince>1289</citySince>
+				<populationNumbers>
+					<pop2001>10719</pop2001>
+					<pop2011>10252</pop2011>
+					<pop2023>9839</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Wolfsberg">
+				<citySince>1331</citySince>
+				<populationNumbers>
+					<pop2001>25301</pop2001>
+					<pop2011>24981</pop2011>
+					<pop2023>25133</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Völkermarkt">
+			<city name="Bleiburg">
+				<citySince>1370</citySince>
+				<populationNumbers>
+					<pop2001>4083</pop2001>
+					<pop2011>3896</pop2011>
+					<pop2023>4103</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Völkermarkt">
+				<citySince>1252</citySince>
+				<populationNumbers>
+					<pop2001>11373</pop2001>
+					<pop2011>11110</pop2011>
+					<pop2023>10977</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Feldkirchen">
+			<city name="Feldkirchen in Kärnten">
+				<citySince>1930</citySince>
+				<populationNumbers>
+					<pop2001>14030</pop2001>
+					<pop2011>14281</pop2011>
+					<pop2023>14434</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Klagenfurt-Land">
+			<city name="Ferlach">
+				<citySince>1930</citySince>
+				<populationNumbers>
+					<pop2001>7602</pop2001>
+					<pop2011>7273</pop2011>
+					<pop2023>7340</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="St. Veit an der Glan">
+			<city name="Friesach">
+				<citySince>1215</citySince>
+				<populationNumbers>
+					<pop2001>5400</pop2001>
+					<pop2011>5139</pop2011>
+					<pop2023>4901</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Sankt Veit an der Glan">
+				<citySince>1224</citySince>
+				<populationNumbers>
+					<pop2001>12839</pop2001>
+					<pop2011>12602</pop2011>
+					<pop2023>12255</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Straßburg">
+				<citySince>1382</citySince>
+				<populationNumbers>
+					<pop2001>2335</pop2001>
+					<pop2011>2149</pop2011>
+					<pop2023>1986</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name=" Spittal an der Drau">
+			<city name="Gmünd in Kärnten">
+				<citySince>1346</citySince>
+				<populationNumbers>
+					<pop2001>2605</pop2001>
+					<pop2011>2580</pop2011>
+					<pop2023>2520</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Hermagor">
+			<city name="Hermagor-Pressegger See">
+				<citySince>1930</citySince>
+				<populationNumbers>
+					<pop2001>7232</pop2001>
+					<pop2011>7055</pop2011>
+					<pop2023>6951</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Klagenfurt">
+			<city name="Klagenfurt am Wörthersee">
+				<citySince>1252</citySince>
+				<populationNumbers>
+					<pop2001>90141</pop2001>
+					<pop2011>94483</pop2011>
+					<pop2023>104332</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Spittal an der Drau">
+			<city name="Radenthein">
+				<citySince>1995</citySince>
+				<populationNumbers>
+					<pop2001>6620</pop2001>
+					<pop2011>6210</pop2011>
+					<pop2023>5777</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Spittal an der Drau">
+				<citySince>1930</citySince>
+				<populationNumbers>
+					<pop2001>16045</pop2001>
+					<pop2011>15753</pop2011>
+					<pop2023>15270</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Villach">
+			<city name="Villach">
+				<citySince>1240</citySince>
+				<populationNumbers>
+					<pop2001>57497</pop2001>
+					<pop2011>59324</pop2011>
+					<pop2023>65135</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+	</province>
+	<province name="Steiermark">
+		<district name="Liezen">
+			<city name="Bad Aussee">
+				<citySince>1994</citySince>
+				<populationNumbers>
+					<pop2001>5086</pop2001>
+					<pop2011>4879</pop2011>
+					<pop2023>5016</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Liezen">
+				<citySince>1947</citySince>
+				<populationNumbers>
+					<pop2001>6908</pop2001>
+					<pop2011>6848</pop2011>
+					<pop2023>8251</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Rottenmann">
+				<citySince>1279</citySince>
+				<populationNumbers>
+					<pop2001>5489</pop2001>
+					<pop2011>5108</pop2011>
+					<pop2023>5118</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Schladming">
+				<citySince>1322</citySince>
+				<populationNumbers>
+					<pop2001>4570</pop2001>
+					<pop2011>4434</pop2011>
+					<pop2023>6553</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Trieben">
+				<citySince>1996</citySince>
+				<populationNumbers>
+					<pop2001>3808</pop2001>
+					<pop2011>3428</pop2011>
+					<pop2023>3312</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Südoststeiermark">
+			<city name="Bad Radkersburg">
+				<citySince>1299</citySince>
+				<populationNumbers>
+					<pop2001>1599</pop2001>
+					<pop2011>1332</pop2011>
+					<pop2023>3235</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Fehring">
+				<citySince>1962</citySince>
+				<populationNumbers>
+					<pop2001>3169</pop2001>
+					<pop2011>3026</pop2011>
+					<pop2023>7245</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Feldbach">
+				<citySince>1884</citySince>
+				<populationNumbers>
+					<pop2001>4680</pop2001>
+					<pop2011>4608</pop2011>
+					<pop2023>13421</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Mureck">
+				<citySince>1975</citySince>
+				<populationNumbers>
+					<pop2001>1690</pop2001>
+					<pop2011>1570</pop2011>
+					<pop2023>3494</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Voitsberg">
+			<city name="Bärnbach">
+				<citySince>1977</citySince>
+				<populationNumbers>
+					<pop2001>4917</pop2001>
+					<pop2011>5272</pop2011>
+					<pop2023>5775</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Köflach">
+				<citySince>1939</citySince>
+				<populationNumbers>
+					<pop2001>10671</pop2001>
+					<pop2011>9747</pop2011>
+					<pop2023>9639</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Voitsberg">
+				<citySince>1224</citySince>
+				<populationNumbers>
+					<pop2001>10074</pop2001>
+					<pop2011>9619</pop2011>
+					<pop2023>9538</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Bruck-Mürzzuschlag">
+			<city name="Bruck an der Mur">
+				<citySince>1277</citySince>
+				<populationNumbers>
+					<pop2001>13439</pop2001>
+					<pop2011>12548</pop2011>
+					<pop2023>15970</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Kapfenberg">
+				<citySince>1924</citySince>
+				<populationNumbers>
+					<pop2001>22234</pop2001>
+					<pop2011>21637</pop2011>
+					<pop2023>22182</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Kindberg">
+				<citySince>1982</citySince>
+				<populationNumbers>
+					<pop2001>5865</pop2001>
+					<pop2011>5499</pop2011>
+					<pop2023>8183</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Mariazell">
+				<citySince>1948</citySince>
+				<populationNumbers>
+					<pop2001>1723</pop2001>
+					<pop2011>1492</pop2011>
+					<pop2023>3718</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Mürzzuschlag">
+				<citySince>1923</citySince>
+				<populationNumbers>
+					<pop2001>9569</pop2001>
+					<pop2011>8693</pop2011>
+					<pop2023>8047</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Deutschlandsberg">
+			<city name="Deutschlandsberg">
+				<citySince>1918</citySince>
+				<populationNumbers>
+					<pop2001>7983</pop2001>
+					<pop2011>8127</pop2011>
+					<pop2023>11721</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Leoben">
+			<city name="Eisenerz">
+				<citySince>1948</citySince>
+				<populationNumbers>
+					<pop2001>6435</pop2001>
+					<pop2011>4826</pop2011>
+					<pop2023>3501</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Leoben">
+				<citySince>1280</citySince>
+				<populationNumbers>
+					<pop2001>25804</pop2001>
+					<pop2011>24598</pop2011>
+					<pop2023>25140</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Trofaiach">
+				<citySince>1979</citySince>
+				<populationNumbers>
+					<pop2001>11773</pop2001>
+					<pop2011>11298</pop2011>
+					<pop2023>11003</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Hartberg-Fürstenfeld">
+			<city name="Friedberg">
+				<citySince>1252</citySince>
+				<populationNumbers>
+					<pop2001>2629</pop2001>
+					<pop2011>2580</pop2011>
+					<pop2023>2643</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Fürstenfeld">
+				<citySince>1232</citySince>
+				<populationNumbers>
+					<pop2001>5982</pop2001>
+					<pop2011>5986</pop2011>
+					<pop2023>8848</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Hartberg">
+				<citySince>1286</citySince>
+				<populationNumbers>
+					<pop2001>6547</pop2001>
+					<pop2011>6529</pop2011>
+					<pop2023>6764</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Graz-Umgebung">
+			<city name="Frohnleiten">
+				<citySince>2002</citySince>
+				<populationNumbers>
+					<pop2001>6592</pop2001>
+					<pop2011>6023</pop2011>
+					<pop2023>6633</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Weiz">
+			<city name="Gleisdorf">
+				<citySince>1920</citySince>
+				<populationNumbers>
+					<pop2001>5224</pop2001>
+					<pop2011>5741</pop2011>
+					<pop2023>11362</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Weiz">
+				<citySince>1932</citySince>
+				<populationNumbers>
+					<pop2001>8926</pop2001>
+					<pop2011>8872</pop2011>
+					<pop2023>11952</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Graz">
+			<city name="Graz">
+				<citySince>1265</citySince>
+				<populationNumbers>
+					<pop2001>226244</pop2001>
+					<pop2011>261726</pop2011>
+					<pop2023>298479</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Murtal">
+			<city name="Judenburg">
+				<citySince>1224</citySince>
+				<populationNumbers>
+					<pop2001>10130</pop2001>
+					<pop2011>9312</pop2011>
+					<pop2023>9614</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Knittelfeld">
+				<citySince>1302</citySince>
+				<populationNumbers>
+					<pop2001>12740</pop2001>
+					<pop2011>11553</pop2011>
+					<pop2023>12781</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Spielberg">
+				<citySince>2009</citySince>
+				<populationNumbers>
+					<pop2001>4875</pop2001>
+					<pop2011>5101</pop2011>
+					<pop2023>5348</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Zeltweg">
+				<citySince>1966</citySince>
+				<populationNumbers>
+					<pop2001>7834</pop2001>
+					<pop2011>7176</pop2011>
+					<pop2023>7114</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Leibnitz">
+			<city name="Leibnitz">
+				<citySince>1913</citySince>
+				<populationNumbers>
+					<pop2001>6892</pop2001>
+					<pop2011>7862</pop2011>
+					<pop2023>13014</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Murau">
+			<city name="Murau">
+				<citySince>1298</citySince>
+				<populationNumbers>
+					<pop2001>2331</pop2001>
+					<pop2011>2113</pop2011>
+					<pop2023>3448</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Oberwölz">
+				<citySince>1304</citySince>
+				<populationNumbers>
+					<pop2001>1055</pop2001>
+					<pop2011>986</pop2011>
+					<pop2023>2959</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+	</province>
+	<province name="Salzburg">
+		<district name="St. Johann im Pongau">
+			<city name="Bischofshofen">
+				<citySince>2000</citySince>
+				<populationNumbers>
+					<pop2001>10087</pop2001>
+					<pop2011>10286</pop2011>
+					<pop2023>10658</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Radstadt">
+				<citySince>1289</citySince>
+				<populationNumbers>
+					<pop2001>4710</pop2001>
+					<pop2011>4845</pop2011>
+					<pop2023>4947</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="St. Johann im Pongau">
+				<citySince>2000</citySince>
+				<populationNumbers>
+					<pop2001>10260</pop2001>
+					<pop2011>10698</pop2011>
+					<pop2023>11452</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Hallein">
+			<city name="Hallein">
+				<citySince>1230</citySince>
+				<populationNumbers>
+					<pop2001>18399</pop2001>
+					<pop2011>19974</pop2011>
+					<pop2023>21523</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Zell am See">
+			<city name="Mittersill">
+				<citySince>2008</citySince>
+				<populationNumbers>
+					<pop2001>5500</pop2001>
+					<pop2011>5405</pop2011>
+					<pop2023>5804</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Saalfelden am Steinernen Meer">
+				<citySince>2000</citySince>
+				<populationNumbers>
+					<pop2001>15093</pop2001>
+					<pop2011>15950</pop2011>
+					<pop2023>17123</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Zell am See">
+				<citySince>1928</citySince>
+				<populationNumbers>
+					<pop2001>9638</pop2001>
+					<pop2011>9528</pop2011>
+					<pop2023>10213</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Salzburg-Umgebung">
+			<city name="Neumarkt am Wallersee">
+				<citySince>2000</citySince>
+				<populationNumbers>
+					<pop2001>5420</pop2001>
+					<pop2011>5844</pop2011>
+					<pop2023>6626</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Oberndorf bei Salzburg">
+				<citySince>2001</citySince>
+				<populationNumbers>
+					<pop2001>5431</pop2001>
+					<pop2011>5591</pop2011>
+					<pop2023>6058</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Seekirchen am Wallersee">
+				<citySince>2000</citySince>
+				<populationNumbers>
+					<pop2001>9344</pop2001>
+					<pop2011>9921</pop2011>
+					<pop2023>11233</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Salzburg">
+			<city name="Salzburg">
+				<citySince>1287</citySince>
+				<populationNumbers>
+					<pop2001>142662</pop2001>
+					<pop2011>145270</pop2011>
+					<pop2023>156619</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+	</province>
+	<province name="Vorarlberg">
+		<district name="Bludenz">
+			<city name="Bludenz">
+				<citySince>1329</citySince>
+				<populationNumbers>
+					<pop2001>13701</pop2001>
+					<pop2011>13701</pop2011>
+					<pop2023>15029</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Bregenz">
+			<city name="Bregenz">
+				<citySince>1363</citySince>
+				<populationNumbers>
+					<pop2001>26752</pop2001>
+					<pop2011>27831</pop2011>
+					<pop2023>29620</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Dornbirn">
+			<city name="Dornbirn">
+				<citySince>1901</citySince>
+				<populationNumbers>
+					<pop2001>42301</pop2001>
+					<pop2011>45922</pop2011>
+					<pop2023>51222</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Hohenems">
+				<citySince>1983</citySince>
+				<populationNumbers>
+					<pop2001>13891</pop2001>
+					<pop2011>15283</pop2011>
+					<pop2023>17239</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Feldkirch">
+			<city name="Feldkirch">
+				<citySince>1218</citySince>
+				<populationNumbers>
+					<pop2001>28600</pop2001>
+					<pop2011>30943</pop2011>
+					<pop2023>35793</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+	</province>
+	<province name="Burgenland">
+		<district name="Eisenstadt">
+			<city name="Eisenstadt">
+				<citySince>1648</citySince>
+				<populationNumbers>
+					<pop2001>11334</pop2001>
+					<pop2011>13101</pop2011>
+					<pop2023>15729</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Neusiedl am See">
+			<city name="Frauenkirchen">
+				<citySince>1982</citySince>
+				<populationNumbers>
+					<pop2001>2856</pop2001>
+					<pop2011>2836</pop2011>
+					<pop2023>2932</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Neusiedl am See">
+				<citySince>1926</citySince>
+				<populationNumbers>
+					<pop2001>5584</pop2001>
+					<pop2011>7123</pop2011>
+					<pop2023>8917</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Güssing">
+			<city name="Güssing">
+				<citySince>1973</citySince>
+				<populationNumbers>
+					<pop2001>3902</pop2001>
+					<pop2011>3792</pop2011>
+					<pop2023>3610</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Jennersdorf">
+			<city name="Jennersdorf">
+				<citySince>1977</citySince>
+				<populationNumbers>
+					<pop2001>4236</pop2001>
+					<pop2011>4197</pop2011>
+					<pop2023>4143</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Mattersburg">
+			<city name="Mattersburg">
+				<citySince>1926</citySince>
+				<populationNumbers>
+					<pop2001>6256</pop2001>
+					<pop2011>7075</pop2011>
+					<pop2023>7514</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Eisenstadt-Umgebung">
+			<city name="Neufeld an der Leitha">
+				<citySince>1997</citySince>
+				<populationNumbers>
+					<pop2001>2948</pop2001>
+					<pop2011>3182</pop2011>
+					<pop2023>3642</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Purbach am Neusiedler See">
+				<citySince>1997</citySince>
+				<populationNumbers>
+					<pop2001>2570</pop2001>
+					<pop2011>2713</pop2011>
+					<pop2023>2984</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Oberpullendorf">
+			<city name="Oberpullendorf">
+				<citySince>1975</citySince>
+				<populationNumbers>
+					<pop2001>2793</pop2001>
+					<pop2011>3004</pop2011>
+					<pop2023>3286</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Oberwart">
+			<city name="Oberwart">
+				<citySince>1939</citySince>
+				<populationNumbers>
+					<pop2001>6696</pop2001>
+					<pop2011>7135</pop2011>
+					<pop2023>7998</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Pinkafeld">
+				<citySince>1937</citySince>
+				<populationNumbers>
+					<pop2001>5181</pop2001>
+					<pop2011>5520</pop2011>
+					<pop2023>5939</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Stadtschlaining">
+				<citySince>1991</citySince>
+				<populationNumbers>
+					<pop2001>2093</pop2001>
+					<pop2011>2083</pop2011>
+					<pop2023>1965</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Rust">
+			<city name="Rust">
+				<citySince>1681</citySince>
+				<populationNumbers>
+					<pop2001>1714</pop2001>
+					<pop2011>1896</pop2011>
+					<pop2023>1964</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+	</province>
+	<province name="Tirol">
+		<district name="Innsbruck-Land">
+			<city name="Hall in Tirol">
+				<citySince>1303</citySince>
+				<populationNumbers>
+					<pop2001>11492</pop2001>
+					<pop2011>12835</pop2011>
+					<pop2023>14418</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Imst">
+			<city name="Imst">
+				<citySince>1898</citySince>
+				<populationNumbers>
+					<pop2001>8689</pop2001>
+					<pop2011>9506</pop2011>
+					<pop2023>11135</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Innsbruck">
+			<city name="Innsbruck">
+				<citySince>1239</citySince>
+				<populationNumbers>
+					<pop2001>113392</pop2001>
+					<pop2011>119617</pop2011>
+					<pop2023>131358</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Kitzbühel">
+			<city name="Kitzbühel">
+				<citySince>1271</citySince>
+				<populationNumbers>
+					<pop2001>8574</pop2001>
+					<pop2011>8076</pop2011>
+					<pop2023>8289</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Kufstein">
+			<city name="Kufstein">
+				<citySince>1393</citySince>
+				<populationNumbers>
+					<pop2001>15358</pop2001>
+					<pop2011>17469</pop2011>
+					<pop2023>19930</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Rattenberg">
+				<citySince>1393</citySince>
+				<populationNumbers>
+					<pop2001>436</pop2001>
+					<pop2011>409</pop2011>
+					<pop2023>459</pop2023>
+				</populationNumbers>
+			</city>
+			<city name="Wörgl">
+				<citySince>1951</citySince>
+				<populationNumbers>
+					<pop2001>10885</pop2001>
+					<pop2011>12751</pop2011>
+					<pop2023>14403</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Landeck">
+			<city name="Landeck">
+				<citySince>1923</citySince>
+				<populationNumbers>
+					<pop2001>7336</pop2001>
+					<pop2011>7709</pop2011>
+					<pop2023>7579</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Lienz">
+			<city name="Lienz">
+				<citySince>1240</citySince>
+				<populationNumbers>
+					<pop2001>12079</pop2001>
+					<pop2011>11761</pop2011>
+					<pop2023>11990</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Schwaz">
+			<city name="Schwaz">
+				<citySince>1899</citySince>
+				<populationNumbers>
+					<pop2001>12212</pop2001>
+					<pop2011>13023</pop2011>
+					<pop2023>14211</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+		<district name="Reutte">
+			<city name="Vils">
+				<citySince>1327</citySince>
+				<populationNumbers>
+					<pop2001>1567</pop2001>
+					<pop2011>1482</pop2011>
+					<pop2023>1507</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+	</province>
+	<province name="Wien">
+		<district name="Wien">
+			<city name="Wien">
+				<citySince>1221</citySince>
+				<populationNumbers>
+					<pop2001>1550123</pop2001>
+					<pop2011>1714227</pop2011>
+					<pop2023>1982097</pop2023>
+				</populationNumbers>
+			</city>
+		</district>
+	</province>
+</data>

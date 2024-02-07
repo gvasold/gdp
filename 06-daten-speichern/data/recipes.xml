@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+	<recipe type="soup" xml:lang="de">
+		<title>Miso-Suppe</title>
+		<cookingTime minutes="25"/>
+		<ingredients>
+			<ingredient quantity="200" unit="grams">Tofu</ingredient>
+			<ingredient quantity="1" unit="pieces">Frühlingszwiebel</ingredient>
+			<ingredient quantity="1" unit="litres">Dashi</ingredient>
+			<ingredient quantity="70" unit="grams">Miso-Paste</ingredient>
+		</ingredients>
+		<instructions>
+			<instruction>Tofu in kleine Würfel schneiden</instruction>
+			<instruction>Zwiebel in feine Ringe schneiden</instruction>
+			<instruction>Dashi aufkochen</instruction>
+			<instruction>Misopaste durch ein Sieb in Dashi rühren</instruction>
+			<instruction>Suppe fast aufkochen</instruction>
+			<instruction>Tofu und Zwiebel in Suppe hinzufügen</instruction>
+			<instruction>Suppe vom Herd nehmen und 5 Minuten ziehen lassen</instruction>
+		</instructions>
+	</recipe>
+
+	<recipe type="soup" xml:lang="de">
+		<title>Jogurtsuppe</title>
+		<cookingTime minutes="40"/>
+		<ingredients>
+			<ingredient quantity="250" unit="millilitres">Jogurt</ingredient>
+			<ingredient quantity="500" unit="millilitres">heißes Wasser</ingredient>
+			<ingredient quantity="1" unit="pieces">Zwiebel, fein gehackt</ingredient>
+			<ingredient quantity="1" unit="tablespoons">Mehl</ingredient>
+			<ingredient quantity="25" unit="grams">gehackte Walnüsse</ingredient>
+			<ingredient>Öl oder Butter</ingredient>
+			<ingredient>Salz</ingredient>
+			<ingredient>Pfeffer</ingredient>
+		</ingredients>
+		<instructions>
+			<instruction>Öl oder Butter in Topf erhitzen</instruction>
+			<instruction>Zwiebeln dünsten</instruction>
+			<instruction>Mit Mehl anschwitzen</instruction>
+			<instruction>Walnüsse dazugeben und 1 Minute mitbraten</instruction>
+			<instruction>heißes Wasser vorsichtig dazugeben und umrühren</instruction>
+			<instruction>Salzen und pfeffern</instruction>
+			<instruction>20 Minuten köcheln lassen</instruction>
+			<instruction>Jogurt in einer Schale glattrühren</instruction>
+			<instruction>Etwas von der Suppe dazu geben und gut verühren</instruction>
+			<instruction>Jogurt unter ständigem Rühren in die Suppe geben</instruction>
+			<instruction>Bei schwacher Hitze weiterkochen bis Suppe fast kocht</instruction>
+		</instructions>
+	</recipe>
+
+	<recipe type="mainDish" xml:lang="de">
+		<title>Brathuhn mit Zitrone</title>
+		<cookingTime hours="1" minutes="40"/>
+		<ingredients>
+			<ingredient quantity="1" unit="pieces">Huhn</ingredient>
+			<ingredient quantity="2" unit="pieces">Unbehandelte Zitronen</ingredient>
+			<ingredient>Salz</ingredient>
+			<ingredient>Pfeffer</ingredient>
+		</ingredients>
+		<instructions>
+			<instruction>Huhn innen und außen gut waschen</instruction>
+			<instruction>Huhn trocken tupfen</instruction>
+			<instruction>Huhn innen und außen gut salzen und pfeffern</instruction>
+			<instruction>Mit Gabel Löcher in die Zitrone stechen</instruction>
+			<instruction>Zitronen in die Bauchhöhle des Huhn stecken und die Öffnung dann verschließen</instruction>
+			<instruction>Huhn in einem Bräter ins vorgeheizte Backrohr (180° C) stellen</instruction>
+			<instruction>Nach 30 Minuten Huhn umdrehen</instruction>
+			<instruction>Nach weiteren 30 Minuten die Temperatur auf 200° erhöhen</instruction>
+			<instruction>Nach weiteren 20 Minuten das Huhn aus dem Backrohr nehmen und zerteilen</instruction>
+		</instructions>
+	</recipe>
+
+	<recipe type="mainDish" xml:lang="de">
+		<title>Erdäpfel mit Tomaten</title>
+		<cookingTime minutes="40"/>
+		<ingredients>
+			<ingredient quantity="350" unit="grams">Kleine Erdäpfel</ingredient>
+			<ingredient quantity="6" unit="pieces">Cocktailtomaten</ingredient>
+			<ingredient quantity="1" unit="teaspoons">Salz</ingredient>
+			<ingredient quantity="0.5" unit="teaspoons">Sumach (gemahlen)</ingredient>
+			<ingredient quantity="1" unit="tablespoons">Honig</ingredient>
+			<ingredient quantity="1" unit="sprigs">Rosmarin (fein gehackt)</ingredient>
+			<ingredient quantity="2" unit="tablespoons">Petersilie (gehackt)</ingredient>
+			<ingredient>Olivenöl</ingredient>
+		</ingredients>
+		<instructions>
+			<instruction>Ofen auf 180° vorheizen</instruction>
+			<instruction>Erdäpfel halbieren, mit Olivenöl beträufeln und salzen</instruction>
+			<instruction>Tomaten und Sumach zugeben</instruction>
+			<instruction>Gut umrühren</instruction>
+			<instruction>Gemüse in Bräter füllen und mit Honig beträufeln</instruction>
+			<instruction>Rosmarin dazugeben</instruction>
+			<instruction>30 Minuten im Backrohr rösten</instruction>
+			<instruction>Mit Petersilie bestreuen und servieren</instruction>
+		</instructions>
+	</recipe>
+
+	<recipe type="dessert" xml:lang="de">
+		<title>Feigen mit Mandeln</title>
+		<cookingTime minutes="20"/>
+		<ingredients>
+			<ingredient quantity="12" unit="pieces">Feigen</ingredient>
+			<ingredient quantity="90" unit="millilitres">Granatapfelsaft</ingredient>
+			<ingredient quantity="2" unit="tablespoons">Rohrzucker</ingredient>
+			<ingredient quantity="1" unit="pieces">Schale einer unbehandelten Orange</ingredient>
+			<ingredient quantity="40" unit="grams">Mandeln (blanchiert)</ingredient>
+			<ingredient quantity="150" unit="grams">Jogurt</ingredient>
+			<ingredient>Honig</ingredient>
+		</ingredients>
+		<instructions>
+			<instruction>Backrohr auf 200° vorheizen</instruction>
+			<instruction>Feigen halbieren und mit der Schnittfläche nach oben auf Backblech legen</instruction>
+			<instruction>Feigen mit Granatapfelsaft begießen</instruction>
+			<instruction>Feigen mit Zucker bestreuen</instruction>
+			<instruction>Orangenschalen und Mandeln auf Feigen verteilen</instruction>
+			<instruction>10 Minuten im Backrohr backen</instruction>
+			<instruction>Mit Honig beträufeln</instruction>
+			<instruction>Mit Johurt servieren</instruction>
+		</instructions>
+	</recipe>
+
+	<recipe type="dessert" xml:lang="de">
+		<title>Mittelalterlicher Birnenpudding (Birnenmus)</title>
+		<cookingTime hours="1"/>
+		<ingredients>
+			<ingredient quantity="500" unit="grams">Birnen</ingredient>
+			<ingredient quantity="15" unit="millilitres">trockener Weißwein</ingredient>
+			<ingredient quantity="20" unit="grams">Butter</ingredient>
+			<ingredient quantity="50" unit="grams">Zucker</ingredient>
+			<ingredient quantity="4" unit="tablespoons">Obers</ingredient>
+			<ingredient quantity="3" unit="pieces">Eigelb</ingredient>
+			<ingredient>Zimt</ingredient>
+		</ingredients>
+		<instructions>
+			<instruction>Birnen schälen, entkernen und in feine Stücke schneiden</instruction>
+			<instruction>Birnen mit Wein und Butter in einem Topf gar kochen</instruction>
+			<instruction>Resultat durch ein Sieb schlagen</instruction>
+			<instruction>Mit Zucker und Zimt abschmecken</instruction>
+			<instruction>Obers hinzufügen</instruction>
+			<instruction>Eigelb hinzufügen und gut verühren</instruction>
+			<instruction>Unter ständigem Rühren auf dem Herd eindicken</instruction>
+			<instruction>In Schälchen umfüllen und erkalten lassen</instruction>
+		</instructions>
+	</recipe>
+</recipes>

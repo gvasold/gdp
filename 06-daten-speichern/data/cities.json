@@ -1,0 +1,1933 @@
+{
+  "provinces": [
+    {
+      "name": "Niederösterreich",
+      "districts": [
+        {
+          "name": "Zwettl",
+          "cities": [
+            {
+              "name": "Allentsteig",
+              "since": 1380,
+              "population_2001": 2163,
+              "population_2011": 1998,
+              "population_2023": 1732
+            },
+            {
+              "name": "Groß Gerungs",
+              "since": 1983,
+              "population_2001": 4820,
+              "population_2011": 4624,
+              "population_2023": 4508
+            },
+            {
+              "name": "Zwettl-Niederösterreich",
+              "since": 1200,
+              "population_2001": 11630,
+              "population_2011": 11247,
+              "population_2023": 10702
+            }
+          ]
+        },
+        {
+          "name": "Amstetten",
+          "cities": [
+            {
+              "name": "Amstetten",
+              "since": 1897,
+              "population_2001": 22595,
+              "population_2011": 22847,
+              "population_2023": 23902
+            },
+            {
+              "name": "Haag",
+              "since": 1932,
+              "population_2001": 5170,
+              "population_2011": 5405,
+              "population_2023": 5753
+            },
+            {
+              "name": "St. Valentin",
+              "since": 1983,
+              "population_2001": 8983,
+              "population_2011": 9220,
+              "population_2023": 9374
+            }
+          ]
+        },
+        {
+          "name": "Baden",
+          "cities": [
+            {
+              "name": "Bad Vöslau",
+              "since": 1954,
+              "population_2001": 10998,
+              "population_2011": 11316,
+              "population_2023": 12396
+            },
+            {
+              "name": "Baden",
+              "since": 1480,
+              "population_2001": 24502,
+              "population_2011": 25093,
+              "population_2023": 26017
+            },
+            {
+              "name": "Berndorf",
+              "since": 1900,
+              "population_2001": 8642,
+              "population_2011": 8810,
+              "population_2023": 8956
+            },
+            {
+              "name": "Ebreichsdorf",
+              "since": 2001,
+              "population_2001": 8788,
+              "population_2011": 9976,
+              "population_2023": 11860
+            },
+            {
+              "name": "Traiskirchen",
+              "since": 1927,
+              "population_2001": 15669,
+              "population_2011": 17729,
+              "population_2023": 19150
+            }
+          ]
+        },
+        {
+          "name": "Leitha",
+          "cities": [
+            {
+              "name": "Bruck an der Leitha Bruck an der",
+              "since": 1239,
+              "population_2001": 7311,
+              "population_2011": 7648,
+              "population_2023": 8395
+            },
+            {
+              "name": "Schwechat Bruck an der",
+              "since": 1922,
+              "population_2001": 15286,
+              "population_2011": 16529,
+              "population_2023": 21166
+            }
+          ]
+        },
+        {
+          "name": "Gänserndorf",
+          "cities": [
+            {
+              "name": "Deutsch-Wagram",
+              "since": 1984,
+              "population_2001": 6808,
+              "population_2011": 7882,
+              "population_2023": 9174
+            },
+            {
+              "name": "Gänserndorf",
+              "since": 1958,
+              "population_2001": 7928,
+              "population_2011": 10362,
+              "population_2023": 12012
+            },
+            {
+              "name": "Groß-Enzersdorf",
+              "since": 1396,
+              "population_2001": 8128,
+              "population_2011": 9613,
+              "population_2023": 12043
+            },
+            {
+              "name": "Marchegg",
+              "since": 1268,
+              "population_2001": 2850,
+              "population_2011": 2926,
+              "population_2023": 3099
+            },
+            {
+              "name": "Zistersdorf",
+              "since": 1281,
+              "population_2001": 5632,
+              "population_2011": 5437,
+              "population_2023": 5475
+            }
+          ]
+        },
+        {
+          "name": "Horn",
+          "cities": [
+            {
+              "name": "Drosendorf-Zissersdorf",
+              "since": 1310,
+              "population_2001": 1309,
+              "population_2011": 1215,
+              "population_2023": 1206
+            },
+            {
+              "name": "Eggenburg",
+              "since": 1277,
+              "population_2001": 3645,
+              "population_2011": 3492,
+              "population_2023": 3537
+            },
+            {
+              "name": "Geras",
+              "since": 1928,
+              "population_2001": 1433,
+              "population_2011": 1369,
+              "population_2023": 1281
+            },
+            {
+              "name": "Horn",
+              "since": 1660,
+              "population_2001": 6411,
+              "population_2011": 6548,
+              "population_2023": 6502
+            }
+          ]
+        },
+        {
+          "name": "Krems",
+          "cities": [
+            {
+              "name": "Dürnstein",
+              "since": 1492,
+              "population_2001": 931,
+              "population_2011": 868,
+              "population_2023": 792
+            },
+            {
+              "name": "Gföhl",
+              "since": 1990,
+              "population_2001": 3740,
+              "population_2011": 3702,
+              "population_2023": 3792
+            },
+            {
+              "name": "Krems an der Donau",
+              "since": 1305,
+              "population_2001": 23713,
+              "population_2011": 24032,
+              "population_2023": 25271
+            },
+            {
+              "name": "Langenlois",
+              "since": 1925,
+              "population_2001": 6875,
+              "population_2011": 7392,
+              "population_2023": 7582
+            },
+            {
+              "name": "Mautern an der Donau",
+              "since": 1276,
+              "population_2001": 3074,
+              "population_2011": 3465,
+              "population_2023": 3418
+            }
+          ]
+        },
+        {
+          "name": "Wiener Neustadt",
+          "cities": [
+            {
+              "name": "Ebenfurth",
+              "since": 1515,
+              "population_2001": 2609,
+              "population_2011": 2853,
+              "population_2023": 3142
+            },
+            {
+              "name": "Kirchschlag in der Buckligen Welt",
+              "since": 2002,
+              "population_2001": 2960,
+              "population_2011": 2921,
+              "population_2023": 2801
+            },
+            {
+              "name": "Wiener Neustadt",
+              "since": 1277,
+              "population_2001": 37627,
+              "population_2011": 41305,
+              "population_2023": 47878
+            }
+          ]
+        },
+        {
+          "name": "Bruck an derLeitha",
+          "cities": [
+            {
+              "name": "Fischamend",
+              "since": 1988,
+              "population_2001": 4419,
+              "population_2011": 4798,
+              "population_2023": 5714
+            }
+          ]
+        },
+        {
+          "name": "Korneuburg",
+          "cities": [
+            {
+              "name": "Gerasdorf bei Wien",
+              "since": 1998,
+              "population_2001": 8231,
+              "population_2011": 10278,
+              "population_2023": 11871
+            },
+            {
+              "name": "Korneuburg",
+              "since": 1298,
+              "population_2001": 11032,
+              "population_2011": 12278,
+              "population_2023": 13697
+            },
+            {
+              "name": "Stockerau",
+              "since": 1893,
+              "population_2001": 14452,
+              "population_2011": 15624,
+              "population_2023": 16974
+            }
+          ]
+        },
+        {
+          "name": "Neunkirchen",
+          "cities": [
+            {
+              "name": "Gloggnitz",
+              "since": 1926,
+              "population_2001": 6159,
+              "population_2011": 6041,
+              "population_2023": 5895
+            },
+            {
+              "name": "Neunkirchen",
+              "since": 1920,
+              "population_2001": 11028,
+              "population_2011": 12249,
+              "population_2023": 12814
+            },
+            {
+              "name": "Ternitz",
+              "since": 1948,
+              "population_2001": 15232,
+              "population_2011": 14800,
+              "population_2023": 14693
+            }
+          ]
+        },
+        {
+          "name": "Gmünd",
+          "cities": [
+            {
+              "name": "Gmünd",
+              "since": 1311,
+              "population_2001": 5861,
+              "population_2011": 5371,
+              "population_2023": 5173
+            },
+            {
+              "name": "Heidenreichstein",
+              "since": 1932,
+              "population_2001": 4565,
+              "population_2011": 4078,
+              "population_2023": 3811
+            },
+            {
+              "name": "Litschau",
+              "since": 1386,
+              "population_2001": 2524,
+              "population_2011": 2263,
+              "population_2023": 2139
+            },
+            {
+              "name": "Schrems",
+              "since": 1936,
+              "population_2001": 5830,
+              "population_2011": 5643,
+              "population_2023": 5273
+            },
+            {
+              "name": "Weitra",
+              "since": 1360,
+              "population_2001": 2898,
+              "population_2011": 2752,
+              "population_2023": 2601
+            }
+          ]
+        },
+        {
+          "name": "Waidhofen an der Thaya",
+          "cities": [
+            {
+              "name": "Groß-Siegharts",
+              "since": 1928,
+              "population_2001": 3089,
+              "population_2011": 2804,
+              "population_2023": 2693
+            },
+            {
+              "name": "Raabs an der Thaya",
+              "since": 1926,
+              "population_2001": 3114,
+              "population_2011": 2772,
+              "population_2023": 2656
+            },
+            {
+              "name": "Waidhofen an der Thaya",
+              "since": 1230,
+              "population_2001": 5750,
+              "population_2011": 5649,
+              "population_2023": 5219
+            }
+          ]
+        },
+        {
+          "name": " Bruck an der Leitha",
+          "cities": [
+            {
+              "name": "Hainburg an der Donau",
+              "since": 1244,
+              "population_2001": 5651,
+              "population_2011": 5906,
+              "population_2023": 6982
+            }
+          ]
+        },
+        {
+          "name": "Lilienfeld",
+          "cities": [
+            {
+              "name": "Hainfeld",
+              "since": 1928,
+              "population_2001": 3696,
+              "population_2011": 3721,
+              "population_2023": 3830
+            },
+            {
+              "name": "Lilienfeld",
+              "since": 1974,
+              "population_2001": 3021,
+              "population_2011": 2811,
+              "population_2023": 2630
+            }
+          ]
+        },
+        {
+          "name": "Hollabrunn",
+          "cities": [
+            {
+              "name": "Hardegg",
+              "since": 1309,
+              "population_2001": 1490,
+              "population_2011": 1380,
+              "population_2023": 1313
+            },
+            {
+              "name": "Hollabrunn",
+              "since": 1908,
+              "population_2001": 10685,
+              "population_2011": 11489,
+              "population_2023": 12262
+            },
+            {
+              "name": "Maissau",
+              "since": 1380,
+              "population_2001": 1855,
+              "population_2011": 1869,
+              "population_2023": 1944
+            },
+            {
+              "name": "Pulkau",
+              "since": 1985,
+              "population_2001": 1568,
+              "population_2011": 1574,
+              "population_2023": 1505
+            },
+            {
+              "name": "Retz",
+              "since": 1486,
+              "population_2001": 4168,
+              "population_2011": 4176,
+              "population_2023": 4279
+            },
+            {
+              "name": "Schrattenthal",
+              "since": 1472,
+              "population_2001": 879,
+              "population_2011": 856,
+              "population_2023": 895
+            }
+          ]
+        },
+        {
+          "name": "St. Pölten",
+          "cities": [
+            {
+              "name": "Herzogenburg",
+              "since": 1927,
+              "population_2001": 7738,
+              "population_2011": 7790,
+              "population_2023": 7936
+            },
+            {
+              "name": "Neulengbach",
+              "since": 2000,
+              "population_2001": 7120,
+              "population_2011": 7849,
+              "population_2023": 8609
+            },
+            {
+              "name": "Pressbaum",
+              "since": 2012,
+              "population_2001": 5834,
+              "population_2011": 7058,
+              "population_2023": 7863
+            },
+            {
+              "name": "Purkersdorf",
+              "since": 1966,
+              "population_2001": 7762,
+              "population_2011": 9259,
+              "population_2023": 9944
+            },
+            {
+              "name": "St. Pölten",
+              "since": 1159,
+              "population_2001": 49121,
+              "population_2011": 51955,
+              "population_2023": 57639
+            },
+            {
+              "name": "Traismauer",
+              "since": 1958,
+              "population_2001": 5618,
+              "population_2011": 5919,
+              "population_2023": 6474
+            },
+            {
+              "name": "Wilhelmsburg",
+              "since": 1959,
+              "population_2001": 6660,
+              "population_2011": 6446,
+              "population_2023": 6461
+            }
+          ]
+        },
+        {
+          "name": "Tulln",
+          "cities": [
+            {
+              "name": "Klosterneuburg",
+              "since": 1298,
+              "population_2001": 24797,
+              "population_2011": 25828,
+              "population_2023": 28107
+            },
+            {
+              "name": "Tulln an der Donau",
+              "since": 1270,
+              "population_2001": 13591,
+              "population_2011": 15169,
+              "population_2023": 16932
+            }
+          ]
+        },
+        {
+          "name": "Mistelbach",
+          "cities": [
+            {
+              "name": "Laa an der Thaya",
+              "since": 1230,
+              "population_2001": 6137,
+              "population_2011": 6187,
+              "population_2023": 6275
+            },
+            {
+              "name": "Mistelbach",
+              "since": 1874,
+              "population_2001": 10644,
+              "population_2011": 10963,
+              "population_2023": 12025
+            },
+            {
+              "name": "Poysdorf",
+              "since": 1923,
+              "population_2001": 5606,
+              "population_2011": 5519,
+              "population_2023": 5685
+            },
+            {
+              "name": "Wolkersdorf im Weinviertel",
+              "since": 1968,
+              "population_2001": 6191,
+              "population_2011": 6739,
+              "population_2023": 7425
+            }
+          ]
+        },
+        {
+          "name": "Melk",
+          "cities": [
+            {
+              "name": "Mank",
+              "since": 1987,
+              "population_2001": 2904,
+              "population_2011": 3090,
+              "population_2023": 3335
+            },
+            {
+              "name": "Melk",
+              "since": 1898,
+              "population_2001": 5222,
+              "population_2011": 5254,
+              "population_2023": 5594
+            },
+            {
+              "name": "Pöchlarn",
+              "since": 1400,
+              "population_2001": 3473,
+              "population_2011": 3924,
+              "population_2023": 4000
+            },
+            {
+              "name": "Ybbs an der Donau",
+              "since": 1317,
+              "population_2001": 5684,
+              "population_2011": 5592,
+              "population_2023": 5653
+            }
+          ]
+        },
+        {
+          "name": "Bruck an der Leitha",
+          "cities": [
+            {
+              "name": "Mannersdorf am Leithagebirge",
+              "since": 1989,
+              "population_2001": 3731,
+              "population_2011": 3839,
+              "population_2023": 4219
+            }
+          ]
+        },
+        {
+          "name": "Mödling",
+          "cities": [
+            {
+              "name": "Mödling",
+              "since": 1875,
+              "population_2001": 20405,
+              "population_2011": 20411,
+              "population_2023": 20630
+            }
+          ]
+        },
+        {
+          "name": "Scheibbs",
+          "cities": [
+            {
+              "name": "Scheibbs",
+              "since": 1926,
+              "population_2001": 4331,
+              "population_2011": 4199,
+              "population_2023": 4237
+            },
+            {
+              "name": "Wieselburg",
+              "since": 1976,
+              "population_2001": 3489,
+              "population_2011": 3702,
+              "population_2023": 4672
+            }
+          ]
+        },
+        {
+          "name": "Waidhofen an der Ybbs",
+          "cities": [
+            {
+              "name": "Waidhofen an der Ybbs",
+              "since": 1273,
+              "population_2001": 11662,
+              "population_2011": 11455,
+              "population_2023": 11126
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oberösterreich",
+      "districts": [
+        {
+          "name": "Braunau am Inn",
+          "cities": [
+            {
+              "name": "Altheim",
+              "since": 2003,
+              "population_2001": 4875,
+              "population_2011": 4784,
+              "population_2023": 5064
+            },
+            {
+              "name": "Braunau am Inn",
+              "since": 1260,
+              "population_2001": 16337,
+              "population_2011": 16197,
+              "population_2023": 17572
+            },
+            {
+              "name": "Mattighofen",
+              "since": 1986,
+              "population_2001": 5087,
+              "population_2011": 5730,
+              "population_2023": 7398
+            }
+          ]
+        },
+        {
+          "name": "Linz-Land",
+          "cities": [
+            {
+              "name": "Ansfelden",
+              "since": 1988,
+              "population_2001": 14789,
+              "population_2011": 15716,
+              "population_2023": 18145
+            },
+            {
+              "name": "Enns",
+              "since": 1212,
+              "population_2001": 10611,
+              "population_2011": 11361,
+              "population_2023": 12176
+            },
+            {
+              "name": "Leonding",
+              "since": 1975,
+              "population_2001": 22203,
+              "population_2011": 25582,
+              "population_2023": 29129
+            },
+            {
+              "name": "Traun",
+              "since": 1973,
+              "population_2001": 23470,
+              "population_2011": 23709,
+              "population_2023": 25006
+            }
+          ]
+        },
+        {
+          "name": "Vöcklabruck",
+          "cities": [
+            {
+              "name": "Attnang-Puchheim",
+              "since": 1990,
+              "population_2001": 8756,
+              "population_2011": 8862,
+              "population_2023": 9201
+            },
+            {
+              "name": "Schwanenstadt",
+              "since": 1627,
+              "population_2001": 4131,
+              "population_2011": 4120,
+              "population_2023": 4649
+            },
+            {
+              "name": "Vöcklabruck",
+              "since": 1353,
+              "population_2001": 11697,
+              "population_2011": 11909,
+              "population_2023": 12769
+            }
+          ]
+        },
+        {
+          "name": "Steyr-Land",
+          "cities": [
+            {
+              "name": "Bad Hall",
+              "since": 2001,
+              "population_2001": 4752,
+              "population_2011": 4773,
+              "population_2023": 5746
+            }
+          ]
+        },
+        {
+          "name": "Gmunden",
+          "cities": [
+            {
+              "name": "Bad Ischl",
+              "since": 1940,
+              "population_2001": 14081,
+              "population_2011": 13876,
+              "population_2023": 14228
+            },
+            {
+              "name": "Gmunden",
+              "since": 1278,
+              "population_2001": 13184,
+              "population_2011": 13086,
+              "population_2023": 13360
+            },
+            {
+              "name": "Laakirchen",
+              "since": 2007,
+              "population_2001": 9130,
+              "population_2011": 9468,
+              "population_2023": 9813
+            }
+          ]
+        },
+        {
+          "name": "Urfahr-Umgebung",
+          "cities": [
+            {
+              "name": "Bad Leonfelden",
+              "since": 2001,
+              "population_2001": 3847,
+              "population_2011": 4086,
+              "population_2023": 4404
+            },
+            {
+              "name": "Gallneukirchen",
+              "since": 2001,
+              "population_2001": 5915,
+              "population_2011": 6183,
+              "population_2023": 6643
+            },
+            {
+              "name": "Steyregg",
+              "since": 1481,
+              "population_2001": 4749,
+              "population_2011": 4779,
+              "population_2023": 5107
+            }
+          ]
+        },
+        {
+          "name": "Eferding",
+          "cities": [
+            {
+              "name": "Eferding",
+              "since": 1222,
+              "population_2001": 3393,
+              "population_2011": 3866,
+              "population_2023": 4296
+            }
+          ]
+        },
+        {
+          "name": "Freistadt",
+          "cities": [
+            {
+              "name": "Freistadt",
+              "since": 1241,
+              "population_2001": 7353,
+              "population_2011": 7458,
+              "population_2023": 8180
+            },
+            {
+              "name": "Pregarten",
+              "since": 2003,
+              "population_2001": 4815,
+              "population_2011": 5098,
+              "population_2023": 5571
+            }
+          ]
+        },
+        {
+          "name": "Perg",
+          "cities": [
+            {
+              "name": "Grein",
+              "since": 1491,
+              "population_2001": 3109,
+              "population_2011": 3024,
+              "population_2023": 2934
+            },
+            {
+              "name": "Perg",
+              "since": 1969,
+              "population_2001": 7129,
+              "population_2011": 7823,
+              "population_2023": 9306
+            }
+          ]
+        },
+        {
+          "name": "Grieskirchen",
+          "cities": [
+            {
+              "name": "Grieskirchen",
+              "since": 1613,
+              "population_2001": 4802,
+              "population_2011": 4803,
+              "population_2023": 5104
+            },
+            {
+              "name": "Peuerbach",
+              "since": 1994,
+              "population_2001": 4530,
+              "population_2011": 4456,
+              "population_2023": 4697
+            }
+          ]
+        },
+        {
+          "name": "Kirchdorf",
+          "cities": [
+            {
+              "name": "Kirchdorf an der Krems",
+              "since": 1975,
+              "population_2001": 4099,
+              "population_2011": 4075,
+              "population_2023": 4931
+            }
+          ]
+        },
+        {
+          "name": "Linz",
+          "cities": [
+            {
+              "name": "Linz",
+              "since": 1240,
+              "population_2001": 183504,
+              "population_2011": 189889,
+              "population_2023": 210118
+            }
+          ]
+        },
+        {
+          "name": "Wels-Land",
+          "cities": [
+            {
+              "name": "Marchtrenk",
+              "since": 2000,
+              "population_2001": 11274,
+              "population_2011": 12359,
+              "population_2023": 14603
+            },
+            {
+              "name": "Stadl-Paura",
+              "since": 2022,
+              "population_2001": 4866,
+              "population_2011": 4931,
+              "population_2023": 5083
+            }
+          ]
+        },
+        {
+          "name": "Ried im Innkreis",
+          "cities": [
+            {
+              "name": "Ried im Innkreis",
+              "since": 1857,
+              "population_2001": 11404,
+              "population_2011": 11394,
+              "population_2023": 12482
+            }
+          ]
+        },
+        {
+          "name": "Rohrbach",
+          "cities": [
+            {
+              "name": "Rohrbach-Berg",
+              "since": 1986,
+              "population_2001": 2353,
+              "population_2011": 2478,
+              "population_2023": 5239
+            }
+          ]
+        },
+        {
+          "name": "Schärding",
+          "cities": [
+            {
+              "name": "Schärding",
+              "since": 1316,
+              "population_2001": 5052,
+              "population_2011": 4876,
+              "population_2023": 5351
+            }
+          ]
+        },
+        {
+          "name": "Steyr",
+          "cities": [
+            {
+              "name": "Steyr",
+              "since": 1287,
+              "population_2001": 39340,
+              "population_2011": 38205,
+              "population_2023": 37917
+            }
+          ]
+        },
+        {
+          "name": "Wels",
+          "cities": [
+            {
+              "name": "Wels",
+              "since": 1222,
+              "population_2001": 56478,
+              "population_2011": 58591,
+              "population_2023": 64385
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kärnten",
+      "districts": [
+        {
+          "name": "Glan",
+          "cities": [
+            {
+              "name": "Althofen St. Veit an der",
+              "since": 1993,
+              "population_2001": 4732,
+              "population_2011": 4656,
+              "population_2023": 4826
+            }
+          ]
+        },
+        {
+          "name": "Wolfsberg",
+          "cities": [
+            {
+              "name": "Bad St. Leonhard im Lavanttal",
+              "since": 1325,
+              "population_2001": 4816,
+              "population_2011": 4528,
+              "population_2023": 4289
+            },
+            {
+              "name": "Sankt Andrä",
+              "since": 1289,
+              "population_2001": 10719,
+              "population_2011": 10252,
+              "population_2023": 9839
+            },
+            {
+              "name": "Wolfsberg",
+              "since": 1331,
+              "population_2001": 25301,
+              "population_2011": 24981,
+              "population_2023": 25133
+            }
+          ]
+        },
+        {
+          "name": "Völkermarkt",
+          "cities": [
+            {
+              "name": "Bleiburg",
+              "since": 1370,
+              "population_2001": 4083,
+              "population_2011": 3896,
+              "population_2023": 4103
+            },
+            {
+              "name": "Völkermarkt",
+              "since": 1252,
+              "population_2001": 11373,
+              "population_2011": 11110,
+              "population_2023": 10977
+            }
+          ]
+        },
+        {
+          "name": "Feldkirchen",
+          "cities": [
+            {
+              "name": "Feldkirchen in Kärnten",
+              "since": 1930,
+              "population_2001": 14030,
+              "population_2011": 14281,
+              "population_2023": 14434
+            }
+          ]
+        },
+        {
+          "name": "Klagenfurt-Land",
+          "cities": [
+            {
+              "name": "Ferlach",
+              "since": 1930,
+              "population_2001": 7602,
+              "population_2011": 7273,
+              "population_2023": 7340
+            }
+          ]
+        },
+        {
+          "name": "St. Veit an der Glan",
+          "cities": [
+            {
+              "name": "Friesach",
+              "since": 1215,
+              "population_2001": 5400,
+              "population_2011": 5139,
+              "population_2023": 4901
+            },
+            {
+              "name": "Sankt Veit an der Glan",
+              "since": 1224,
+              "population_2001": 12839,
+              "population_2011": 12602,
+              "population_2023": 12255
+            },
+            {
+              "name": "Straßburg",
+              "since": 1382,
+              "population_2001": 2335,
+              "population_2011": 2149,
+              "population_2023": 1986
+            }
+          ]
+        },
+        {
+          "name": " Spittal an der Drau",
+          "cities": [
+            {
+              "name": "Gmünd in Kärnten",
+              "since": 1346,
+              "population_2001": 2605,
+              "population_2011": 2580,
+              "population_2023": 2520
+            }
+          ]
+        },
+        {
+          "name": "Hermagor",
+          "cities": [
+            {
+              "name": "Hermagor-Pressegger See",
+              "since": 1930,
+              "population_2001": 7232,
+              "population_2011": 7055,
+              "population_2023": 6951
+            }
+          ]
+        },
+        {
+          "name": "Klagenfurt",
+          "cities": [
+            {
+              "name": "Klagenfurt am Wörthersee",
+              "since": 1252,
+              "population_2001": 90141,
+              "population_2011": 94483,
+              "population_2023": 104332
+            }
+          ]
+        },
+        {
+          "name": "Spittal an der Drau",
+          "cities": [
+            {
+              "name": "Radenthein",
+              "since": 1995,
+              "population_2001": 6620,
+              "population_2011": 6210,
+              "population_2023": 5777
+            },
+            {
+              "name": "Spittal an der Drau",
+              "since": 1930,
+              "population_2001": 16045,
+              "population_2011": 15753,
+              "population_2023": 15270
+            }
+          ]
+        },
+        {
+          "name": "Villach",
+          "cities": [
+            {
+              "name": "Villach",
+              "since": 1240,
+              "population_2001": 57497,
+              "population_2011": 59324,
+              "population_2023": 65135
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Steiermark",
+      "districts": [
+        {
+          "name": "Liezen",
+          "cities": [
+            {
+              "name": "Bad Aussee",
+              "since": 1994,
+              "population_2001": 5086,
+              "population_2011": 4879,
+              "population_2023": 5016
+            },
+            {
+              "name": "Liezen",
+              "since": 1947,
+              "population_2001": 6908,
+              "population_2011": 6848,
+              "population_2023": 8251
+            },
+            {
+              "name": "Rottenmann",
+              "since": 1279,
+              "population_2001": 5489,
+              "population_2011": 5108,
+              "population_2023": 5118
+            },
+            {
+              "name": "Schladming",
+              "since": 1322,
+              "population_2001": 4570,
+              "population_2011": 4434,
+              "population_2023": 6553
+            },
+            {
+              "name": "Trieben",
+              "since": 1996,
+              "population_2001": 3808,
+              "population_2011": 3428,
+              "population_2023": 3312
+            }
+          ]
+        },
+        {
+          "name": "Südoststeiermark",
+          "cities": [
+            {
+              "name": "Bad Radkersburg",
+              "since": 1299,
+              "population_2001": 1599,
+              "population_2011": 1332,
+              "population_2023": 3235
+            },
+            {
+              "name": "Fehring",
+              "since": 1962,
+              "population_2001": 3169,
+              "population_2011": 3026,
+              "population_2023": 7245
+            },
+            {
+              "name": "Feldbach",
+              "since": 1884,
+              "population_2001": 4680,
+              "population_2011": 4608,
+              "population_2023": 13421
+            },
+            {
+              "name": "Mureck",
+              "since": 1975,
+              "population_2001": 1690,
+              "population_2011": 1570,
+              "population_2023": 3494
+            }
+          ]
+        },
+        {
+          "name": "Voitsberg",
+          "cities": [
+            {
+              "name": "Bärnbach",
+              "since": 1977,
+              "population_2001": 4917,
+              "population_2011": 5272,
+              "population_2023": 5775
+            },
+            {
+              "name": "Köflach",
+              "since": 1939,
+              "population_2001": 10671,
+              "population_2011": 9747,
+              "population_2023": 9639
+            },
+            {
+              "name": "Voitsberg",
+              "since": 1224,
+              "population_2001": 10074,
+              "population_2011": 9619,
+              "population_2023": 9538
+            }
+          ]
+        },
+        {
+          "name": "Bruck-Mürzzuschlag",
+          "cities": [
+            {
+              "name": "Bruck an der Mur",
+              "since": 1277,
+              "population_2001": 13439,
+              "population_2011": 12548,
+              "population_2023": 15970
+            },
+            {
+              "name": "Kapfenberg",
+              "since": 1924,
+              "population_2001": 22234,
+              "population_2011": 21637,
+              "population_2023": 22182
+            },
+            {
+              "name": "Kindberg",
+              "since": 1982,
+              "population_2001": 5865,
+              "population_2011": 5499,
+              "population_2023": 8183
+            },
+            {
+              "name": "Mariazell",
+              "since": 1948,
+              "population_2001": 1723,
+              "population_2011": 1492,
+              "population_2023": 3718
+            },
+            {
+              "name": "Mürzzuschlag",
+              "since": 1923,
+              "population_2001": 9569,
+              "population_2011": 8693,
+              "population_2023": 8047
+            }
+          ]
+        },
+        {
+          "name": "Deutschlandsberg",
+          "cities": [
+            {
+              "name": "Deutschlandsberg",
+              "since": 1918,
+              "population_2001": 7983,
+              "population_2011": 8127,
+              "population_2023": 11721
+            }
+          ]
+        },
+        {
+          "name": "Leoben",
+          "cities": [
+            {
+              "name": "Eisenerz",
+              "since": 1948,
+              "population_2001": 6435,
+              "population_2011": 4826,
+              "population_2023": 3501
+            },
+            {
+              "name": "Leoben",
+              "since": 1280,
+              "population_2001": 25804,
+              "population_2011": 24598,
+              "population_2023": 25140
+            },
+            {
+              "name": "Trofaiach",
+              "since": 1979,
+              "population_2001": 11773,
+              "population_2011": 11298,
+              "population_2023": 11003
+            }
+          ]
+        },
+        {
+          "name": "Hartberg-Fürstenfeld",
+          "cities": [
+            {
+              "name": "Friedberg",
+              "since": 1252,
+              "population_2001": 2629,
+              "population_2011": 2580,
+              "population_2023": 2643
+            },
+            {
+              "name": "Fürstenfeld",
+              "since": 1232,
+              "population_2001": 5982,
+              "population_2011": 5986,
+              "population_2023": 8848
+            },
+            {
+              "name": "Hartberg",
+              "since": 1286,
+              "population_2001": 6547,
+              "population_2011": 6529,
+              "population_2023": 6764
+            }
+          ]
+        },
+        {
+          "name": "Graz-Umgebung",
+          "cities": [
+            {
+              "name": "Frohnleiten",
+              "since": 2002,
+              "population_2001": 6592,
+              "population_2011": 6023,
+              "population_2023": 6633
+            }
+          ]
+        },
+        {
+          "name": "Weiz",
+          "cities": [
+            {
+              "name": "Gleisdorf",
+              "since": 1920,
+              "population_2001": 5224,
+              "population_2011": 5741,
+              "population_2023": 11362
+            },
+            {
+              "name": "Weiz",
+              "since": 1932,
+              "population_2001": 8926,
+              "population_2011": 8872,
+              "population_2023": 11952
+            }
+          ]
+        },
+        {
+          "name": "Graz",
+          "cities": [
+            {
+              "name": "Graz",
+              "since": 1265,
+              "population_2001": 226244,
+              "population_2011": 261726,
+              "population_2023": 298479
+            }
+          ]
+        },
+        {
+          "name": "Murtal",
+          "cities": [
+            {
+              "name": "Judenburg",
+              "since": 1224,
+              "population_2001": 10130,
+              "population_2011": 9312,
+              "population_2023": 9614
+            },
+            {
+              "name": "Knittelfeld",
+              "since": 1302,
+              "population_2001": 12740,
+              "population_2011": 11553,
+              "population_2023": 12781
+            },
+            {
+              "name": "Spielberg",
+              "since": 2009,
+              "population_2001": 4875,
+              "population_2011": 5101,
+              "population_2023": 5348
+            },
+            {
+              "name": "Zeltweg",
+              "since": 1966,
+              "population_2001": 7834,
+              "population_2011": 7176,
+              "population_2023": 7114
+            }
+          ]
+        },
+        {
+          "name": "Leibnitz",
+          "cities": [
+            {
+              "name": "Leibnitz",
+              "since": 1913,
+              "population_2001": 6892,
+              "population_2011": 7862,
+              "population_2023": 13014
+            }
+          ]
+        },
+        {
+          "name": "Murau",
+          "cities": [
+            {
+              "name": "Murau",
+              "since": 1298,
+              "population_2001": 2331,
+              "population_2011": 2113,
+              "population_2023": 3448
+            },
+            {
+              "name": "Oberwölz",
+              "since": 1304,
+              "population_2001": 1055,
+              "population_2011": 986,
+              "population_2023": 2959
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Salzburg",
+      "districts": [
+        {
+          "name": "St. Johann im Pongau",
+          "cities": [
+            {
+              "name": "Bischofshofen",
+              "since": 2000,
+              "population_2001": 10087,
+              "population_2011": 10286,
+              "population_2023": 10658
+            },
+            {
+              "name": "Radstadt",
+              "since": 1289,
+              "population_2001": 4710,
+              "population_2011": 4845,
+              "population_2023": 4947
+            },
+            {
+              "name": "St. Johann im Pongau",
+              "since": 2000,
+              "population_2001": 10260,
+              "population_2011": 10698,
+              "population_2023": 11452
+            }
+          ]
+        },
+        {
+          "name": "Hallein",
+          "cities": [
+            {
+              "name": "Hallein",
+              "since": 1230,
+              "population_2001": 18399,
+              "population_2011": 19974,
+              "population_2023": 21523
+            }
+          ]
+        },
+        {
+          "name": "Zell am See",
+          "cities": [
+            {
+              "name": "Mittersill",
+              "since": 2008,
+              "population_2001": 5500,
+              "population_2011": 5405,
+              "population_2023": 5804
+            },
+            {
+              "name": "Saalfelden am Steinernen Meer",
+              "since": 2000,
+              "population_2001": 15093,
+              "population_2011": 15950,
+              "population_2023": 17123
+            },
+            {
+              "name": "Zell am See",
+              "since": 1928,
+              "population_2001": 9638,
+              "population_2011": 9528,
+              "population_2023": 10213
+            }
+          ]
+        },
+        {
+          "name": "Salzburg-Umgebung",
+          "cities": [
+            {
+              "name": "Neumarkt am Wallersee",
+              "since": 2000,
+              "population_2001": 5420,
+              "population_2011": 5844,
+              "population_2023": 6626
+            },
+            {
+              "name": "Oberndorf bei Salzburg",
+              "since": 2001,
+              "population_2001": 5431,
+              "population_2011": 5591,
+              "population_2023": 6058
+            },
+            {
+              "name": "Seekirchen am Wallersee",
+              "since": 2000,
+              "population_2001": 9344,
+              "population_2011": 9921,
+              "population_2023": 11233
+            }
+          ]
+        },
+        {
+          "name": "Salzburg",
+          "cities": [
+            {
+              "name": "Salzburg",
+              "since": 1287,
+              "population_2001": 142662,
+              "population_2011": 145270,
+              "population_2023": 156619
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vorarlberg",
+      "districts": [
+        {
+          "name": "Bludenz",
+          "cities": [
+            {
+              "name": "Bludenz",
+              "since": 1329,
+              "population_2001": 13701,
+              "population_2011": 13701,
+              "population_2023": 15029
+            }
+          ]
+        },
+        {
+          "name": "Bregenz",
+          "cities": [
+            {
+              "name": "Bregenz",
+              "since": 1363,
+              "population_2001": 26752,
+              "population_2011": 27831,
+              "population_2023": 29620
+            }
+          ]
+        },
+        {
+          "name": "Dornbirn",
+          "cities": [
+            {
+              "name": "Dornbirn",
+              "since": 1901,
+              "population_2001": 42301,
+              "population_2011": 45922,
+              "population_2023": 51222
+            },
+            {
+              "name": "Hohenems",
+              "since": 1983,
+              "population_2001": 13891,
+              "population_2011": 15283,
+              "population_2023": 17239
+            }
+          ]
+        },
+        {
+          "name": "Feldkirch",
+          "cities": [
+            {
+              "name": "Feldkirch",
+              "since": 1218,
+              "population_2001": 28600,
+              "population_2011": 30943,
+              "population_2023": 35793
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Burgenland",
+      "districts": [
+        {
+          "name": "Eisenstadt",
+          "cities": [
+            {
+              "name": "Eisenstadt",
+              "since": 1648,
+              "population_2001": 11334,
+              "population_2011": 13101,
+              "population_2023": 15729
+            }
+          ]
+        },
+        {
+          "name": "Neusiedl am See",
+          "cities": [
+            {
+              "name": "Frauenkirchen",
+              "since": 1982,
+              "population_2001": 2856,
+              "population_2011": 2836,
+              "population_2023": 2932
+            },
+            {
+              "name": "Neusiedl am See",
+              "since": 1926,
+              "population_2001": 5584,
+              "population_2011": 7123,
+              "population_2023": 8917
+            }
+          ]
+        },
+        {
+          "name": "Güssing",
+          "cities": [
+            {
+              "name": "Güssing",
+              "since": 1973,
+              "population_2001": 3902,
+              "population_2011": 3792,
+              "population_2023": 3610
+            }
+          ]
+        },
+        {
+          "name": "Jennersdorf",
+          "cities": [
+            {
+              "name": "Jennersdorf",
+              "since": 1977,
+              "population_2001": 4236,
+              "population_2011": 4197,
+              "population_2023": 4143
+            }
+          ]
+        },
+        {
+          "name": "Mattersburg",
+          "cities": [
+            {
+              "name": "Mattersburg",
+              "since": 1926,
+              "population_2001": 6256,
+              "population_2011": 7075,
+              "population_2023": 7514
+            }
+          ]
+        },
+        {
+          "name": "Eisenstadt-Umgebung",
+          "cities": [
+            {
+              "name": "Neufeld an der Leitha",
+              "since": 1997,
+              "population_2001": 2948,
+              "population_2011": 3182,
+              "population_2023": 3642
+            },
+            {
+              "name": "Purbach am Neusiedler See",
+              "since": 1997,
+              "population_2001": 2570,
+              "population_2011": 2713,
+              "population_2023": 2984
+            }
+          ]
+        },
+        {
+          "name": "Oberpullendorf",
+          "cities": [
+            {
+              "name": "Oberpullendorf",
+              "since": 1975,
+              "population_2001": 2793,
+              "population_2011": 3004,
+              "population_2023": 3286
+            }
+          ]
+        },
+        {
+          "name": "Oberwart",
+          "cities": [
+            {
+              "name": "Oberwart",
+              "since": 1939,
+              "population_2001": 6696,
+              "population_2011": 7135,
+              "population_2023": 7998
+            },
+            {
+              "name": "Pinkafeld",
+              "since": 1937,
+              "population_2001": 5181,
+              "population_2011": 5520,
+              "population_2023": 5939
+            },
+            {
+              "name": "Stadtschlaining",
+              "since": 1991,
+              "population_2001": 2093,
+              "population_2011": 2083,
+              "population_2023": 1965
+            }
+          ]
+        },
+        {
+          "name": "Rust",
+          "cities": [
+            {
+              "name": "Rust",
+              "since": 1681,
+              "population_2001": 1714,
+              "population_2011": 1896,
+              "population_2023": 1964
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tirol",
+      "districts": [
+        {
+          "name": "Innsbruck-Land",
+          "cities": [
+            {
+              "name": "Hall in Tirol",
+              "since": 1303,
+              "population_2001": 11492,
+              "population_2011": 12835,
+              "population_2023": 14418
+            }
+          ]
+        },
+        {
+          "name": "Imst",
+          "cities": [
+            {
+              "name": "Imst",
+              "since": 1898,
+              "population_2001": 8689,
+              "population_2011": 9506,
+              "population_2023": 11135
+            }
+          ]
+        },
+        {
+          "name": "Innsbruck",
+          "cities": [
+            {
+              "name": "Innsbruck",
+              "since": 1239,
+              "population_2001": 113392,
+              "population_2011": 119617,
+              "population_2023": 131358
+            }
+          ]
+        },
+        {
+          "name": "Kitzbühel",
+          "cities": [
+            {
+              "name": "Kitzbühel",
+              "since": 1271,
+              "population_2001": 8574,
+              "population_2011": 8076,
+              "population_2023": 8289
+            }
+          ]
+        },
+        {
+          "name": "Kufstein",
+          "cities": [
+            {
+              "name": "Kufstein",
+              "since": 1393,
+              "population_2001": 15358,
+              "population_2011": 17469,
+              "population_2023": 19930
+            },
+            {
+              "name": "Rattenberg",
+              "since": 1393,
+              "population_2001": 436,
+              "population_2011": 409,
+              "population_2023": 459
+            },
+            {
+              "name": "Wörgl",
+              "since": 1951,
+              "population_2001": 10885,
+              "population_2011": 12751,
+              "population_2023": 14403
+            }
+          ]
+        },
+        {
+          "name": "Landeck",
+          "cities": [
+            {
+              "name": "Landeck",
+              "since": 1923,
+              "population_2001": 7336,
+              "population_2011": 7709,
+              "population_2023": 7579
+            }
+          ]
+        },
+        {
+          "name": "Lienz",
+          "cities": [
+            {
+              "name": "Lienz",
+              "since": 1240,
+              "population_2001": 12079,
+              "population_2011": 11761,
+              "population_2023": 11990
+            }
+          ]
+        },
+        {
+          "name": "Schwaz",
+          "cities": [
+            {
+              "name": "Schwaz",
+              "since": 1899,
+              "population_2001": 12212,
+              "population_2011": 13023,
+              "population_2023": 14211
+            }
+          ]
+        },
+        {
+          "name": "Reutte",
+          "cities": [
+            {
+              "name": "Vils",
+              "since": 1327,
+              "population_2001": 1567,
+              "population_2011": 1482,
+              "population_2023": 1507
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wien",
+      "districts": [
+        {
+          "name": "Wien",
+          "cities": [
+            {
+              "name": "Wien",
+              "since": 1221,
+              "population_2001": 1550123,
+              "population_2011": 1714227,
+              "population_2023": 1982097
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,44 +1,71 @@
 # gdp (Grundlagen der Programmierung)
 
-This repository contains Jupyter notebooks and example data for my
-course *Grundlagen der Programmierung* at Graz University. All notebooks are in German.
+This repository contains Jupyter notebooks and example data for my course *Grundlagen der Programmierung* at Graz University. 
+This repository will be updated on a yearly basis.
 
-## Usage
+As all notebooks are in German, the rest of this README will also be
+in German.
 
-To use the notebooks make sure you have these programs installed:
 
-* Python version 3. 
-* Jupyter. Install it via pip or conda (`pip install --user jupyter` or `conda install jupyter` if you use Conda/Anaconda)
-* I suggest to also install jupyterlab, which is a more modern version of `jupyter notebook` (which was installed automatically with `jupyter`): 
-  `pip install --user jupyterlab` or `conda install jupyterlab`.
+## Verwendung
 
-Clone the repository from GitHub:
+### Voraussetzungen
 
-```bash
+Um die Notebooks verwenden zu können, brauchen Sie ein installiertes
+**Python**. Jede einigermaßen aktuelle Version von Python 3 sollte 
+funktionieren.
+
+Falls Sie Python noch nicht installiert haben, lesen Sie bitte INSTALLATION.md.
+
+Außerdem brauchen Sie ein Programm, mit dem Sie die Notebooks darstellen und
+mit ihnen arbeiten können. Meine Empfehlung ist, dafür **JupyterLab** zu 
+verwenden. Alternativ bieten auch einige IDEs wie z.B. VS Code Unterstützung für 
+Notebooks. Die Installation von JupyterLab ist in INSTALLATION.md beschrieben.
+
+Sie können sich das komplette Repository als Zip-Datei von GitHub kopieren und
+auf Ihrem Computer auspacken. Die bessere Möglichkeit ist aber, sich das
+Repository mit Git zu klonen. Dazu müssen Sie auf Ihrem Computer Git 
+installieren, wie in INSTALLATION.md beschrieben.
+
+
+### Die Notebooks clonen
+
+Hinweis: Der hier beschriebene Weg erfordert, dass Git auf Ihrem Computer
+installiert ist. Alternativ können Sie die Notebooks im Webbrowser von 
+Github herunterladen, wie unten beschrieben.
+
+Öffnen Sie ein Terminal. Unter Windows sollten Sie statt dessen "Git Bash" 
+öffnen. Entweder über Programme oder über das Kontexmenü im Windows Explorer.
+
+Bewegen Sie sich mit ``cd`` in das Verzeichnis, unter dem Sie die Notebooks 
+ablegen wollen und geben Sie dann diesen Befehl ein:
+
+```
 git clone https://github.com/gvasold/gdp.git
 ```
 
-If you do not want to use git, you can download the zipped version from here: https://github.com/gvasold/gdp/archive/refs/heads/main.zip. Unzip `main.zip` and proceed as described below.
+Dadurch wird eine Kopie aller Notebooks und Beispieldaten auf Ihrem Computer
+angelegt. 
 
-Then change into `gdp` directory and start the Jupyter server:
+Alternativ können Sie die Notebooks und Beispieldaten als Zipdatei herunterladen:
+https://github.com/gvasold/gdp/archive/refs/heads/main.zip. 
+Packen Sie diese Datei aus und starten Sie dann JupyterLab wie unten beschreiben.
 
-```bash
-cd gdp
+
+### JupyterLab starten
+
+Wechseln Sie in das eben geklonte "gdp" Verzeichnis und geben Sie diesen
+Befehl ein:
+
+```
+jupyter-lab 
 ```
 
-```bash
-jupyter notebook
-```
+Danach sollte ein Browserfenster aufgehen, in dem Sie arbeiten können. Falls dies
+nicht funktioniert, suchen Sie im Terminal, in dem Sie JupyterLab gestartet haben,
+nach einer Zeile, die http://localhost enthält und öffnen Sie die dort stehende
+Adresse im Browser.
 
-or, if you have installed jupyterlab:
-
-```bash
-jupyter-lab
-```
-
-This will bring up your browser and will show you the contents of the `gdp` directory.
-
-All notebooks have numbers (like `01_datentypen.ipynb`). I suggest to use the notebooks in this order. Notebooks are organized by topics. Each topic has its own folder. Start with folder `grundlagen`.
 
 ## License
 

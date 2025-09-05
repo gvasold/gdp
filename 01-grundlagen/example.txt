@@ -1,0 +1,4 @@
+Ich bin eine kleine Beispieldatei.
+Mein einzige Zweck ist, zu demonstrieren
+wie eine im aktuellen Verzeichnis liegende 
+Datei zu öffnen ist.
